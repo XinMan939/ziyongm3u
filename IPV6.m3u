@@ -130,7 +130,12 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视海外版" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://113.93.50.81:2000/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://mirror.ghproxy.com//https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="卫视频道",海峡卫视
+http://218.5.30.201:4023/udp/239.61.2.151:8894
 
+
+#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="NewTV",求索纪录
+http://s.cdhongyuan.cn:4022/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="356" tvg-name="哒啵赛事" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV44.png" group-title="NewTV",哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdh.png" group-title="NewTV",黑莓动画
@@ -205,16 +210,14 @@ http://106.59.3.147:55555/udp/239.200.201.34:8148
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=378903"
 #EXTINF:-1 tvg-id="378903" tvg-name="凤凰香港" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix3.png" group-title="港台频道",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=378901"
 #EXTINF:-1 tvg-id="378901" tvg-name="凤凰中文" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港台频道",凤凰中文
 http://146.56.153.245:20121/bysid/258
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=378902"
 #EXTINF:-1 tvg-id="378902" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix2.png" group-title="港台频道",凤凰资讯
 http://wouu.net:9977/rtp/239.93.0.118:2191Cf=cfss.cc
 #EXTINF:-1 tvg-name="HKS" tvg-id="378923" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台频道",HKS 香港卫视
-http://php.jdshipin.com:8880/amlh.php
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-id="322473" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Lotus.png" group-title="港台频道",澳门莲花
-https://stream1.freetv.fun/e0c8a89afdee0e1edf99b2001ad3611e6e13c966c3014c0eaf898f62d9eab873.m3u8
+http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="澳视葡文台" tvg-id="" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi2.png" group-title="港台频道",澳视葡文
 http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 #EXTINF:-1 tvg-name="澳视资讯台" tvg-id="" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi4.png" group-title="港台频道",澳视资讯
@@ -254,9 +257,10 @@ https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce09297
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369225"
 #EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="369225" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="港台频道",TVBS 欢乐
-http://tw.ts138.top/4g/?id=4gtv-4gtv068
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=368771"
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TVBS精采台HD" tvg-id="368771" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="港台频道",TVBS 精彩
+http://tw.ts138.top/4g/?id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="368310" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080854502752_67.png" group-title="港台频道",TVBS Asia
 http://tw.ts138.top/4g/?id=4gtv-4gtv067
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370174"
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-id="370174" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="港台频道",TVBS 新闻
@@ -272,6 +276,8 @@ http://tw.ts138.top/4g/?id=litv-longturn22
 http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 tvg-name="momo綜合台HD" tvg-id="377296" tvg-logo="https://epg.pw/media/images/epg/2024/07/16/20240716043430075102_78.png" group-title="港台频道",MOMO 综合
 rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-name="中旺电视" tvg-id="377296" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/zhongwangdianshi.png" group-title="港台频道",中旺电视
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞HD" tvg-id="368812" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台频道",寰宇新闻
 http://tw.ts138.top/4g/?id=litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="369272" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110930128394_63.png" group-title="港台频道",寰宇新闻台湾
