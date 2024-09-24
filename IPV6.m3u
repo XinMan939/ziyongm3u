@@ -691,9 +691,9 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 http://20191221.xyz:8888/udp/239.69.1.42:9892
 #EXTINF:-1 tvg-name="湖北影视" tvg-id="304" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei2.png" group-title="湖北频道", 湖北影视
 http://20191221.xyz:8888/udp/239.69.1.204:10866
-#EXTINF:-1 tvg-name="湖北教育" tvg-id="305" tv
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-id="307" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Wuhan1.png" group-title="湖北频道", 武汉新闻综合
-http://20191221.xyz:8888/udp/239.69.1.145:10506g-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei3.png" group-title="湖北频道", 湖北教育
+http://20191221.xyz:8888/udp/239.69.1.145:10506
+#EXTINF:-1 tvg-name="湖北教育" tvg-id="305" tvg-id="307" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei3.png" group-title="湖北频道", 湖北教育
 http://20191221.xyz:8888/udp/239.69.1.206:10878
 #EXTINF:-1 tvg-name="湖北生活" tvg-id="306" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei4.png" group-title="湖北频道", 湖北生活
 http://20191221.xyz:8888/udp/239.69.1.205:10872
