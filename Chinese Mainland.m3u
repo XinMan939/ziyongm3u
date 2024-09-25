@@ -135,7 +135,7 @@ http://218.5.30.201:4023/udp/239.61.2.151:8894
 
 
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="NewTV",求索纪录
-http://s.cdhongyuan.cn:4022/udp/239.93.42.24:5140
+https://stream1.freetv.fun/qiu-suo-ji-lu-5.ctv
 #EXTINF:-1 tvg-id="356" tvg-name="哒啵赛事" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV44.png" group-title="NewTV",哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdh.png" group-title="NewTV",黑莓动画
