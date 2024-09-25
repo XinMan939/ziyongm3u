@@ -43,6 +43,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKh3M-sfDOyv1WJSVcFM8ElA/.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="8541" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB4.png" group-title="港台频道",TVB 无线新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgwV4TJIF_9h7joKw3O6VW4/.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/TVBPLUS.png" group-title="港台频道",TVB Plus
+https://stream1.freetv.fun/tvb-plus-1.ctv
+
 #EXTINF:-1 tvg-name="TVBS" tvg-id="370183" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="港台频道",TVBS
 https://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="369225" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="港台频道",TVBS 欢乐
@@ -68,7 +71,7 @@ https://litv.zapi.us.kg/?id=litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="370180" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110930128394_63.png" group-title="港台频道",寰宇新闻台湾
 http://tw.ts138.top/4g/?id=litv-longturn15
 #EXTINF:-1 tvg-name="寰宇財經台" tvg-id="370182" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="港台频道",寰宇财经
-http://37.27.111.214:8080/live/65/hls.m3u8
+https://stream1.freetv.fun/huan-yu-cai-jing-1.m3u8
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="370173" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="港台频道",三立新闻
 https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
 #EXTINF:-1 tvg-name="三立綜合台" tvg-id="370144" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="港台频道",三立综合
@@ -78,7 +81,7 @@ https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437
 #EXTINF:-1 tvg-name="三立戲劇台HD" tvg-id="368788" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="港台频道",三立戏剧
 https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
 #EXTINF:-1 tvg-name="三立都會台" tvg-id="369190" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="港台频道",三立戏剧
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
+https://stream1.freetv.fun/san-li-du-hui-1.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="368814" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台频道",台视新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="台視HD" tvg-id="368558" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TTV.png" group-title="港台频道",台视 HD
@@ -124,7 +127,7 @@ rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="中天新聞台" tvg-id="370177" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港台频道",中天新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天娛樂台" tvg-id="369183" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港台频道",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
+https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/zhongtianyazhou.png" group-title="港台频道",中天亚洲
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
 #EXTINF:-1 tvg-name="非凡新聞台" tvg-id="369240" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="港台频道",非凡新闻
@@ -272,7 +275,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-id="370152" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110619581937_19.png" group-title="港台频道",Arirang 阿里郎
 https://litv.zapi.us.kg/?id=4gtv-4gtv079
 #EXTINF:-1 tvg-name="龍華戲劇HD" tvg-id="368790" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111456956289_95.png" group-title="港台频道",龙华戏剧
-https://litv.zapi.us.kg/?id=litv-longturn18
+https://stream1.freetv.fun/long-hua-xi-ju-6.m3u8
 #EXTINF:-1 tvg-name="龍華電影HD" tvg-id="368838" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111637852685_23.png" group-title="港台频道",龙华电影
 https://litv.zapi.us.kg/?id=litv-longturn03
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-id="370230" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111510430223_25.png" group-title="港台频道",龙华日韩
@@ -293,8 +296,6 @@ http://37.27.111.214:8080/live/26/hls.m3u8
 http://37.27.111.214:8080/live/54/hls.m3u8
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="369271" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609115054415243_34.png" group-title="港台频道",亚洲旅游台
 https://litv.zapi.us.kg/?id=litv-longturn17
-#EXTINF:-1 tvg-name="Love Nature" tvg-id="370219" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610060923765852_46.png" group-title="港台频道",Love Nature
-http://37.27.111.214:8080/live/84/hls.m3u8
 #EXTINF:-1 tvg-name="視納華仁紀實台HD" tvg-id="368835" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120951185311_22.png" group-title="港台频道",视纳华仁纪实
 https://litv.zapi.us.kg/?id==4gtv-4gtv013
 #EXTINF:-1 tvg-name="Global Trekker" tvg-id="370153" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610060706462810_44.png" group-title="港台频道",Global Trekker
@@ -307,6 +308,10 @@ http://37.27.111.214:8080/live/34/hls.m3u8
 http://37.27.111.214:8080/live/40/hls.m3u8
 #EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="370198" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111133999505_59.png" group-title="港台频道",Classical 古典乐
 https://litv.zapi.us.kg/?id=4gtv-4gtv059
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="港台频道",Love Nature
+https://stream1.freetv.fun/love-nature-3.m3u8
+#EXTINF:-1 tvg-name="人間衛視" tvg-id="368923" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111732021551_51.png" group-title="港台频道",人间卫视
+https://stream1.freetv.fun/ren-jian-wei-shi-2.m3u8
 #EXTINF:-1 tvg-name="KBS World (HD)" tvg-id="369767" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080942280528_38.png" group-title="海外频道",KBS 世界（Korea）
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-name="KBS 1" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/KBS1.png" group-title="海外频道",KBS 1（Korea）
