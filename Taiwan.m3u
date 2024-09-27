@@ -178,7 +178,7 @@ https://litv.zapi.us.kg/?id=litv-longturn09
 rtmp://9hv9.mine.nu/sat/md021
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-id="368590" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114225425458_38.png" group-title="港台频道",ELTA 体育Ⅱ
 rtmp://9hv9.mine.nu/sat/md011
-#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="370149" tvg-logo="https://epg.pw/media/images/epg/2024/08/08/20240808045922300585_10.png" group-title="港台频道",ELTA 娱乐
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="370149" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png" group-title="港台频道",ELTA 娱乐
 https://litv.zapi.us.kg/?id=4gtv-4gtv070
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="368571" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110707488272_87.png" group-title="港台频道",ELTV 生活英语
 https://litv.zapi.us.kg/?id=litv-longturn20
@@ -186,11 +186,11 @@ https://litv.zapi.us.kg/?id=litv-longturn20
 http://37.27.111.214:8080/live/85/hls.m3u8
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-id="370238" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111604544110_65.png" group-title="港台频道",金光布袋戏
 http://37.27.111.214:8080/live/93/hls.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1" tvg-id="6338" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114225425458_38.png" group-title="港台频道",Eleven SportsⅠ
+#EXTINF:-1 tvg-name="Eleven Sports 1" tvg-id="6338" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608023759225800_63.png" group-title="港台频道",Eleven SportsⅠ
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="Eleven Sports 2" tvg-id="6340" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608023804679905_74.png" group-title="港台频道",Eleven SportsⅡ
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 tvg-name="DAZN 1" tvg-id="369288" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608023759225800_63.png" group-title="港台频道",DAZN 1
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="369288" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034440935332_61.png" group-title="港台频道",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="369285" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114450511849_30.png" group-title="港台频道",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
