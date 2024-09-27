@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.erw.cc/e.xml.gz" catchup="append" catchup-source="?starttime={utc:YmdTHMS}&endtime={utcend:YmdTHMS}"
+#EXTM3U url-tvg="http://epg.erw.cc/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV1.png" group-title="央视频道", CCTV1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
