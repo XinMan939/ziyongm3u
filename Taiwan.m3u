@@ -180,7 +180,7 @@ rtmp://9hv9.mine.nu/sat/md021
 rtmp://9hv9.mine.nu/sat/md011
 #EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="370149" tvg-logo="https://epg.pw/media/images/epg/2024/08/08/20240808045922300585_10.png" group-title="港台频道",ELTA 娱乐
 https://litv.zapi.us.kg/?id=4gtv-4gtv070
-#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="368571" tvg-logo="httpshttps://epg.pw/media/images/epg/2024/06/12/20240612110707488272_87.png" group-title="港台频道",ELTV 生活英语
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="368571" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110707488272_87.png" group-title="港台频道",ELTV 生活英语
 https://litv.zapi.us.kg/?id=litv-longturn20
 #EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="370222" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png" group-title="港台频道",ELTA 生活旅游
 http://37.27.111.214:8080/live/85/hls.m3u8
