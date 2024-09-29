@@ -579,13 +579,13 @@ http://113.251.228.247:7788/rtp/235.254.196.218:1146
 
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-id="294" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang1.png" group-title="黑龙江频道", 黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226330/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-id="294" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="黑龙江频道", 黑龙江都市
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-id="295" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="黑龙江频道", 黑龙江都市
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-id="294" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="黑龙江频道", 黑龙江文体
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-id="296" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="黑龙江频道", 黑龙江文体
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-id="294" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="黑龙江频道", 黑龙江影视
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-id="297" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="黑龙江频道", 黑龙江影视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-id="294" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江频道", 黑龙江农业科教
+#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-id="	293" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江频道", 黑龙江农业科教
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226242/index.m3u8
 
 
