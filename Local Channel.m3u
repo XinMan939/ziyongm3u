@@ -14,13 +14,13 @@ http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="湖南都市" tvg-id="湖南都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan2.png" group-title="湖南频道", 湖南都市
 http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="金鹰纪实" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan9.png" group-title="湖南频道", 金鹰纪实
-http://116.128.242.83:9901/tsfile/live/1001_1.m3u8
+https://stream1.freetv.fun/ipv6-jin-ying-ji-shi-20.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png" group-title="湖南频道", 金鹰卡通
-http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/jin-ying-qia-tong-gao-qing-1.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-id="茶频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan12.png" group-title="湖南频道", 茶频道
 http://[2409:8087:5e08:24::8]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-id="先锋乒羽" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan13.png" group-title="湖南频道", 海南公共
-http://171.110.10.19:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=0&authid=0
+https://stream1.freetv.fun/xian-feng-ping-yu-3.ctv
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="173" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="湖南频道", 快乐垂钓
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 #EXTINF:-1 tvg-name="湖南教育" tvg-id="湖南教育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan8.png" group-title="湖南频道", 湖南教育
@@ -194,29 +194,29 @@ http://113.93.50.81:2000/udp/239.77.0.122:5146
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="208" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" group-title="江苏频道", 优漫卡通
 https://stream1.freetv.fun/ipv6-you-man-qia-tong-3.m3u8
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu2.png" group-title="江苏频道", 江苏城市
+#EXTINF:-1 tvg-name="江苏城市" tvg-id="214" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu2.png" group-title="江苏频道", 江苏城市
 https://stream1.freetv.fun/jiang-su-cheng-shi-1.ctv
-#EXTINF:-1 tvg-name="江苏教育" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu7.png" group-title="江苏频道", 江苏教育
+#EXTINF:-1 tvg-name="江苏教育" tvg-id="216" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu7.png" group-title="江苏频道", 江苏教育
 https://stream1.freetv.fun/jiang-su-jiao-yu-4.ctv
-#EXTINF:-1 tvg-name="江苏影视" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu4.png" group-title="江苏频道", 江苏影视
+#EXTINF:-1 tvg-name="江苏影视" tvg-id="217" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu4.png" group-title="江苏频道", 江苏影视
 https://stream1.freetv.fun/jiang-su-ying-shi-2.ctv
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu3.png" group-title="江苏频道", 江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" tvg-id="218" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu3.png" group-title="江苏频道", 江苏综艺
 https://stream1.freetv.fun/jiang-su-zong-yi-1.m3u8
-#EXTINF:-1 tvg-name="江苏新闻" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu1.png" group-title="江苏频道", 江苏新闻
+#EXTINF:-1 tvg-name="江苏新闻" tvg-id="219" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu1.png" group-title="江苏频道", 江苏新闻
 https://stream1.freetv.fun/jiang-su-xin-wen-2.ctv
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu5.png" group-title="江苏频道", 江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="220" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu5.png" group-title="江苏频道", 江苏体育休闲
 https://stream1.freetv.fun/jiang-su-ti-yu-1.ctv
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-id="287" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/xinwenzonghe.png" group-title="江苏频道", 南京新闻综合
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-id="255" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/xinwenzonghe.png" group-title="江苏频道", 南京新闻综合
 https://stream1.freetv.fun/nan-jing-xin-wen-zong-he-1.m3u8
-#EXTINF:-1 tvg-name="南京教育科技" tvg-id="287" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/nanjingjiaoke.png" group-title="江苏频道", 南京教育科技
+#EXTINF:-1 tvg-name="南京教育科技" tvg-id="456" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/nanjingjiaoke.png" group-title="江苏频道", 南京教育科技
 https://stream1.freetv.fun/nan-jing-jiao-ke-2.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="486" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-5.m3u8
-#EXTINF:-1 tvg-name="苏州社会经济" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou2.png" group-title="江苏频道", 苏州社会经济
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-id="487" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou2.png" group-title="江苏频道", 苏州社会经济
 https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-1.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="488" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
 https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-1.m3u8
-#EXTINF:-1 tvg-name="苏州生活资讯" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏频道", 南京十八生活
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-id="489" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏频道", 南京十八生活
 https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
 
 #EXTINF:-1 tvg-name="海南新闻" tvg-id="287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan2.png" group-title="海南频道", 海南新闻
