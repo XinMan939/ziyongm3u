@@ -197,7 +197,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1  tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdh.png" group-title="数字付费",黑莓动画
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1  tvg-id="350" tvg-name="动作电影" tvg-logo="https://pic.erw.cc/epglogo/数字付费/数字付费03.png" group-title="数字付费",动作电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
@@ -209,7 +209,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1  tvg-id="357" tvg-name="哒啵电竞" tvg-logo="https://pic.erw.cc/epglogo/数字付费/数字付费45.png" group-title="数字付费",哒啵电竞
-http://[2409:8087:74d9:21::6]/270000001128/9900000121/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+http://[2409:8087:74d9:21::6]/270000001128/9900000121/index.m3u8
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1  tvg-id="358" tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/数字付费/数字付费01.png" group-title="数字付费",军事评论
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
@@ -330,4 +330,5 @@ http://106.59.3.147:55555/udp/239.200.201.31:8144
 http://106.59.3.147:55555/udp/239.200.201.30:8140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="182" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/chcyingmidianying.png" group-title="数字付费", CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+
 
