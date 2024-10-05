@@ -50,28 +50,7 @@ http://117.161.12.124/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8
 #EXTINF:-1 tvg-name="上海教育" tvg-id="419" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai6.png" group-title="上海频道", 上海教育
 http://117.161.12.124/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="魅力足球" tvg-id="186" tvg-logo=http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海频道", 魅力足球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="222" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/游戏风云.png" group-title="上海频道", 游戏风云
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-id="176" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/劲爆体育.png" group-title="上海频道", 劲爆体育
-http://117.161.12.124/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="新视觉HD" tvg-id="新视觉HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海频道", 新视觉HD
-http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-id="179" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="上海频道", 乐游
-[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-id="175" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV动漫秀场-light.png" group-title="上海频道", SITV动漫秀场
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="178" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV都市剧场-light.png" group-title="上海频道", SITV都市剧场
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-id="187" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地-light.png" group-title="上海频道", SITV法治天地
-http://[2409:8087:5e00:24::1e]:6060/000000001000/9001547084732463424/1.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="183" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV欢笑剧场-light.png" group-title="上海频道", SITV欢笑剧场
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-id="185" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV金色学堂.png" group-title="上海频道", SITV金色学堂
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-id="188" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海频道", SITV生活时尚
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8
+
 
 #EXTINF:-1 tvg-name="浙江新闻" tvg-id="204" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang5.png" group-title="浙江频道", 浙江新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
