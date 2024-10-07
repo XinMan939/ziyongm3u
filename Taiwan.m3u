@@ -37,8 +37,10 @@ https://stream1.freetv.fun/gang-tai-dian-shi--31-2.m3u8
 https://stream1.freetv.fun/gang-tai-dian-shi--32-1.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳频道",环球电视
 https://stream1.freetv.fun/huan-qiu-dian-shi-4.m3u8
-
-
+#EXTINF:-1 tvg-name="天映频道" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="港澳频道",天映频道
+http://154.9.232.236:80/mlTW22288.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典频道" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png" group-title="港澳频道",天映经典频道
+http://154.9.232.236:80/mlTW22288.php?id=Celestial2
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="368897" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/viutv.png" group-title="港澳频道",Viu TV
 http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
 #EXTINF:-1 tvg-name="ViuTV Six" tvg-id="368905" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/badboys88888/photo/main/VIU6.png" group-title="港澳频道",ViuTV Six
@@ -56,7 +58,11 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB亞洲劇" tvg-id="368335" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093244173955_10.png" group-title="港澳频道",TVB 亚洲
 https://stream1.freetv.fun/tvbsya-zhou-1.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="13934" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB4.png" group-title="港澳频道",TVB 无线新闻
-http://live.cooltv.top/tv/tvb.php?id=2
+http://154.9.232.236:80/mlTW22288.php?id=inews_twn
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-id="13934" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103748539019_25.png" group-title="港澳频道",TVB 娱乐新闻
+http://154.9.232.236:80/mlTW22288.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="千禧經典台" tvg-id="368325" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103239999116_44.png" group-title="港澳频道",千禧经典
+http://154.9.232.236:80/mlTW22288.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/TVBPLUS.png" group-title="港澳频道",TVB Plus
 https://stream1.freetv.fun/tvb-plus-1.ctv
 #EXTINF:-1 tvg-name="Discovery Asia HD" tvg-id="368619" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080832851319_73.png" group-title="台湾频道",Discovery Asia
@@ -73,6 +79,8 @@ http://tw.ts138.top/4g/?id=4gtv-4gtv067
 https://stream1.freetv.fun/tvbsxin-wen-9.ctv
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="368310" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093244173955_10.png" group-title="台湾频道",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-name="美亞電影HD" tvg-id="334984" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="台湾频道",美亚电影
+http://154.9.232.236:80/mlTW22288.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="原住民族電視HD" tvg-id="368565" tvg-logo="https://i0.hdslb.com/bfs/article/ece704a5700794b432e0bfe45bf4bf07be65b377.png" group-title="台湾频道",TITV 原视
 http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 tvg-name="客家電視台" tvg-id="370145" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110230969148_39.png" group-title="台湾频道",HakkaTV 客视
@@ -141,6 +149,8 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv152
 https://litv.zapi.us.kg/?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="台湾频道",东森超视
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="東森電影台" tvg-id="369263" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC3.png" group-title="台湾频道",东森电影
+http://154.9.232.236:80/mlTW22288.php?id=ettvmovie
 #EXTINF:-1 tvg-name="中天新聞台" tvg-id="370177" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天新闻.png" group-title="台湾频道",中天新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天娛樂台" tvg-id="369183" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天娱乐.png" group-title="台湾频道",中天娱乐
@@ -177,6 +187,8 @@ rtmp://f13h.mine.nu/sat/tv701
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="緯來體育台" tvg-id="369287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai5.png" group-title="台湾频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="緯來電影台" tvg-id="369262" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai4.png" group-title="台湾频道",纬来电影
+http://154.9.232.236:80/mlTW22288.php?id=videolandmovie
 #EXTINF:-1 tvg-name="博斯運動一台" tvg-id="369230" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114438517759_78.png" group-title="台湾频道",博斯运动Ⅰ
 https://litv.zapi.us.kg/?id=litv-longturn07
 #EXTINF:-1 tvg-name="博斯運動二台" tvg-id="370205" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111221352590_75.png" group-title="台湾频道",博斯运动Ⅱ
