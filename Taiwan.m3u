@@ -25,6 +25,20 @@ http://61.244.22.5/ch3/ch3.live/playelist.m3u8?zgangd
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="港澳频道",Now TV
 https://stream1.freetv.fun/now-tv-1.m3u8
+#EXTINF:-1 tvg-name="Channel V HD" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Channel%20V.png" group-title="港澳频道",Channel-V
+https://stream1.freetv.fun/channel-v-1.ctv
+#EXTINF:-1 tvg-name="亚太第一卫视" tvg-id="" tvg-logo="https://tvlogo.935181.xyz/LOGO/亚太第一卫视.png" group-title="港澳频道",One TV
+https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Startv.png" group-title="港澳频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
+#EXTINF:-1 tvg-name="RTHK 31" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳频道",RTHK 31
+https://stream1.freetv.fun/gang-tai-dian-shi--31-2.m3u8
+#EXTINF:-1 tvg-name="RTHK 32" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="港澳频道",RTHK 32
+https://stream1.freetv.fun/gang-tai-dian-shi--32-1.m3u8
+#EXTINF:-1 tvg-name="环球电视台" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳频道",环球电视
+https://stream1.freetv.fun/huan-qiu-dian-shi-4.m3u8
+
+
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="368897" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/viutv.png" group-title="港澳频道",Viu TV
 http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
 #EXTINF:-1 tvg-name="ViuTV Six" tvg-id="368905" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/badboys88888/photo/main/VIU6.png" group-title="港澳频道",ViuTV Six
@@ -45,8 +59,6 @@ https://stream1.freetv.fun/tvbsya-zhou-1.m3u8
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/TVBPLUS.png" group-title="港澳频道",TVB Plus
 https://stream1.freetv.fun/tvb-plus-1.ctv
-
-
 #EXTINF:-1 tvg-name="Discovery Asia HD" tvg-id="368619" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080832851319_73.png" group-title="台湾频道",Discovery Asia
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-id="368365" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" group-title="台湾频道",AXN
@@ -242,7 +254,7 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="TechStorm" tvg-id="370212" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120259475432_46.png" group-title="台湾频道",TechStorm
 http://37.27.111.214:8080/live/80/hls.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" tvg-id="370213" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114830590429_14.png" group-title="台湾频道",Pet Club
-http://37.27.111.214:8080/live/81/hls.m3u8
+https://stream1.freetv.fun/pet-club-tv-1.m3u8
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="370192" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120244546974_89.png" group-title="台湾频道",ROCK Entertainment
 http://37.27.111.214:8080/live/70/hls.m3u8
 #EXTINF:-1 tvg-name="ROCK Action HD" tvg-id="368843" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609121131509721_94.png" group-title="台湾频道",ROCK Action
