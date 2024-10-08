@@ -95,6 +95,8 @@ rtmp://f13h.mine.nu:1935/sat/tv761
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TaiwanPlus" tvg-id="368832" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120903692362_76.png" group-title="台湾频道",Taiwan Plus
 https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
+#EXTINF:-1 tvg-name="壹電視新聞台" tvg-id="369218" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120512951698_18.png" group-title="台湾频道",壹新闻
+http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="370179" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻
 https://litv.zapi.us.kg/?id=litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="370180" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110930128394_63.png" group-title="台湾频道",寰宇新闻台湾
@@ -153,10 +155,18 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv153
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="東森電影台" tvg-id="369263" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC3.png" group-title="台湾频道",东森电影
 http://154.9.232.236:80/mlTW22288.php?id=ettvmovie
+#EXTINF:-1 tvg-name="東森綜合台" tvg-id="369188" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC1.png" group-title="台湾频道",东森综合
+http://pachongbo.site:8080/tsfile/live/1041_1.m3u8
+#EXTINF:-1 tvg-name="東森戲劇台" tvg-id="369227" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC5.png" group-title="台湾频道",东森戏剧
+http://pachongbo.site:8080/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="東森幼幼台" tvg-id="368941" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC10.png" group-title="台湾频道",东森幼幼
+http://pachongbo.site:8080/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-id="370177" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天新闻.png" group-title="台湾频道",中天新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天娛樂台" tvg-id="369183" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天娱乐.png" group-title="台湾频道",中天娱乐
 https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
+#EXTINF:-1 tvg-name="中天綜合台" tvg-id="369192" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾频道",中天综合
+http://pachongbo.site:8080/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/zhongtianyazhou.png" group-title="台湾频道",中天亚洲
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
 #EXTINF:-1 tvg-name="非凡新聞台" tvg-id="369240" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="台湾频道",非凡新闻
