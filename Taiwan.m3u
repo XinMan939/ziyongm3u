@@ -91,6 +91,10 @@ https://litv.zapi.us.kg/?id=litv-longturn22
 http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 tvg-name="momo綜合台HD" tvg-id="377296" tvg-logo="https://epg.pw/media/images/epg/2024/07/16/20240716043430075102_78.png" group-title="台湾频道",MOMO 综合
 rtmp://f13h.mine.nu:1935/sat/tv761
+#EXTINF:-1 tvg-name="TLC旅遊生活頻道" tvg-id="368945" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150618532798_31.png" group-title="台湾频道",TLC旅游生活
+http://pachongbo.site:8080/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="東風衛視" tvg-id="369193" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151137561858_79.png" group-title="台湾频道",东风卫视
+http://pachongbo.site:8080/tsfile/live/1195_1.m3u8
 #EXTINF:-1 tvg-name="中旺电视" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/zhongwangdianshi.png" group-title="台湾频道",中旺电视
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TaiwanPlus" tvg-id="368832" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120903692362_76.png" group-title="台湾频道",Taiwan Plus
@@ -173,7 +177,9 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv109
 https://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="半島英語新聞台Al Jazeera English HD" tvg-id="368834" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609092040397231_63.png" group-title="台湾频道",半岛新闻
 https://litv.zapi.us.kg/?id=litv-ftv10
-#EXTINF:-1 tvg-name="公視戲劇" tvg-id="公370226" tvg-logo="https://assets.livednow.com/logo/%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="台湾频道",公视戏剧
+#EXTINF:-1 tvg-name="公視台語台HD" tvg-id="368563" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113451111349_53.png" group-title="台湾频道",公视台语
+http://pachongbo.site:8080/tsfile/live/1201_1.m3u8
+#EXTINF:-1 tvg-name="公視戲劇" tvg-id="370226" tvg-logo="https://assets.livednow.com/logo/%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="台湾频道",公视戏剧
 https://litv.zapi.us.kg/?id=4gtv-4gtv042
 #EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="370211" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111301621203_17.png" group-title="台湾频道",GINX Esports TV
 https://litv.zapi.us.kg/?id=4gtv-4gtv053
@@ -188,7 +194,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv016
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="368585" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114035577529_88.png" group-title="台湾频道",Mezzo Live
 https://litv.zapi.us.kg/?id=4gtv-4gtv083
 #EXTINF:-1 tvg-name="動物星球" tvg-id="368948" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="台湾频道",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
+http://pachongbo.site:8080/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="國會頻道1HD" tvg-id="368580" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113929723896_55.png" group-title="台湾频道",国会频道①
 https://litv.zapi.us.kg/?id=4gtv-4gtv084
 #EXTINF:-1 tvg-name="國會頻道2HD" tvg-id="368581" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113941000863_84.png" group-title="台湾频道",国会频道②
