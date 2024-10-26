@@ -61,19 +61,17 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="3493" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳频道",TVB 星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB亞洲劇" tvg-id="368335" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093244173955_10.png" group-title="港澳频道",TVB 亚洲
-https://stream1.freetv.fun/tvbsya-zhou-1.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="13934" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB4.png" group-title="港澳频道",TVB 无线新闻
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-id="13934" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103748539019_25.png" group-title="港澳频道",TVB 娱乐新闻
 http://154.9.232.236:80/mlTW22288.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="千禧經典台" tvg-id="368325" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103239999116_44.png" group-title="港澳频道",千禧经典
-http://154.9.232.236:80/mlTW22288.php?id=Tvbclassic
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/TVBPLUS.png" group-title="港澳频道",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="Discovery Asia HD" tvg-id="368619" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080832851319_73.png" group-title="台湾频道",Discovery Asia
-http://pachongbo.site:8080/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-id="368365" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" group-title="台湾频道",AXN
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-name=" 	" tvg-id="368365" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" group-title="台湾频道",AXN
 http://pachongbo.site:8080/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-id="370183" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="台湾频道",TVBS
 https://litv.zapi.us.kg/?id=4gtv-4gtv073
@@ -86,7 +84,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="368310" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093244173955_10.png" group-title="台湾频道",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="美亞電影HD" tvg-id="334984" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="台湾频道",美亚电影
-http://154.9.232.236:80/mlTW22288.php?id=meiyamovie_twn
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 #EXTINF:-1 tvg-name="原住民族電視HD" tvg-id="368565" tvg-logo="https://i0.hdslb.com/bfs/article/ece704a5700794b432e0bfe45bf4bf07be65b377.png" group-title="台湾频道",TITV 原视
 http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 tvg-name="客家電視台" tvg-id="370145" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110230969148_39.png" group-title="台湾频道",HakkaTV 客视
@@ -98,19 +96,25 @@ http://pachongbo.site:8080/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="momo綜合台HD" tvg-id="377296" tvg-logo="https://epg.pw/media/images/epg/2024/07/16/20240716043430075102_78.png" group-title="台湾频道",MOMO 综合
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="TLC旅遊生活頻道" tvg-id="368945" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150618532798_31.png" group-title="台湾频道",TLC旅游生活
-http://pachongbo.site:8080/tsfile/live/1005_1.m3u8
+http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 #EXTINF:-1 tvg-name="HBO" tvg-id="369264" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080041669049_38.png" group-title="台湾频道",HBO 电影
-http://pachongbo.site:8080/tsfile/live/1029_1.m3u8
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="334729" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610052634221865_60.png" group-title="台湾频道",HBO 温馨家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-name="HBO Signature" tvg-id="334728" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080136513049_22.png" group-title="台湾频道",HBO 原创巨献
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-name="HBO-Hits" tvg-id="334944" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105615080355_60.png" group-title="台湾频道",HBO 强档巨献
+http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 #EXTINF:-1 tvg-name="東風衛視" tvg-id="369193" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151137561858_79.png" group-title="台湾频道",东风卫视
 http://pachongbo.site:8080/tsfile/live/1195_1.m3u8
 #EXTINF:-1 tvg-name="中旺电视" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/zhongwangdianshi.png" group-title="台湾频道",中旺电视
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TaiwanPlus" tvg-id="368832" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120903692362_76.png" group-title="台湾频道",Taiwan Plus
-https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="壹電視新聞台" tvg-id="369218" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120512951698_18.png" group-title="台湾频道",壹新闻
 http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
 #EXTINF:-1 tvg-name="年代新聞台" tvg-id="369247" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/niandaixinwen.png" group-title="台湾频道",年代新闻
-http://pachongbo.site:8080/tsfile/live/1192_1.m3u8
+http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-name="年代MUCH TV" tvg-id="369182" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/niandaimuch.png" group-title="台湾频道",年代Much TV
 http://pachongbo.site:8080/tsfile/live/1189_1.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="370179" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻
@@ -118,7 +122,7 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="370180" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110930128394_63.png" group-title="台湾频道",寰宇新闻台湾
 https://litv.zapi.us.kg/?id=litv-longturn15
 #EXTINF:-1 tvg-name="寰宇財經台" tvg-id="370182" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="台湾频道",寰宇财经
-https://stream1.freetv.fun/huan-yu-cai-jing-1.m3u8
+http://37.27.111.214:8080/live/65/hls.m3u8
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="370173" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="台湾频道",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 #EXTINF:-1 tvg-name="三立財經新聞台HD" tvg-id="368815" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120447521047_40.png" group-title="台湾频道",三立财经新闻
@@ -134,17 +138,17 @@ https://stream1.freetv.fun/san-li-du-hui-1.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="368814" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾频道",台视新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="台視HD" tvg-id="368558" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TTV.png" group-title="台湾频道",台视 HD
-http://pachongbo.site:8080/tsfile/live/1047_1.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台視財經HD" tvg-id="368821" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="台湾频道",台视财经
 https://litv.zapi.us.kg/?id=4gtv-4gtv056
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-id="368819" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110816477487_17.png" group-title="台湾频道",镜新闻
-http://pachongbo.site:8080/tsfile/live/1031_1.m3u8
+http://37.27.111.214:8080/live/62/hls.m3u8
 #EXTINF:-1 tvg-name="NHK新聞資訊台HD" tvg-id="368833" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120922784921_15.png" group-title="台湾频道",NHK 新闻资讯
 http://pachongbo.site:8080/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-name="華視新聞資訊HD" tvg-id="368816" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120500461946_29.png" group-title="台湾频道",华视新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="華視" tvg-id="368922" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113422867976_81.png" group-title="台湾频道",华视 HD
-http://pachongbo.site:8080/tsfile/live/1049_1.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="中視新聞HD" tvg-id="368811" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾频道",中视新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中視" tvg-id="369325" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/CTV.png" group-title="台湾频道",中视 HD
@@ -172,15 +176,15 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-id="369246" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台湾频道",东森财经
 https://litv.zapi.us.kg/?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="台湾频道",东森超视
-http://pachongbo.site:8080/tsfile/live/1180_1.m3u8
+rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="東森電影台" tvg-id="369263" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC3.png" group-title="台湾频道",东森电影
-http://154.9.232.236:80/mlTW22288.php?id=ettvmovie
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="東森綜合台" tvg-id="369188" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC1.png" group-title="台湾频道",东森综合
-http://pachongbo.site:8080/tsfile/live/1041_1.m3u8
+http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1 tvg-name="東森戲劇台" tvg-id="369227" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC5.png" group-title="台湾频道",东森戏剧
-http://pachongbo.site:8080/tsfile/live/1042_1.m3u8
+http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 #EXTINF:-1 tvg-name="東森幼幼台" tvg-id="368941" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC10.png" group-title="台湾频道",东森幼幼
-http://pachongbo.site:8080/tsfile/live/1008_1.m3u8
+http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 #EXTINF:-1 tvg-name="中天新聞台" tvg-id="370177" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天新闻.png" group-title="台湾频道",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天娛樂台" tvg-id="369183" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中天娱乐.png" group-title="台湾频道",中天娱乐
@@ -194,7 +198,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="半島英語新聞台Al Jazeera English HD" tvg-id="368834" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609092040397231_63.png" group-title="台湾频道",半岛新闻
 https://litv.zapi.us.kg/?id=litv-ftv10
 #EXTINF:-1 tvg-name="公視(HD)" tvg-id="368562" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113437333854_59.png" group-title="台湾频道",公视
-http://pachongbo.site:8080/tsfile/live/1201_1.m3u8
+http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 #EXTINF:-1 tvg-name="公視戲劇" tvg-id="370226" tvg-logo="https://assets.livednow.com/logo/%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="台湾频道",公视戏剧
 https://litv.zapi.us.kg/?id=4gtv-4gtv042
 #EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="370211" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111301621203_17.png" group-title="台湾频道",GINX Esports TV
@@ -210,7 +214,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv016
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="368585" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114035577529_88.png" group-title="台湾频道",Mezzo Live
 https://litv.zapi.us.kg/?id=4gtv-4gtv083
 #EXTINF:-1 tvg-name="動物星球" tvg-id="368948" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="台湾频道",动物星球
-http://pachongbo.site:8080/tsfile/live/1004_1.m3u8
+http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-name="國會頻道1HD" tvg-id="368580" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113929723896_55.png" group-title="台湾频道",国会频道①
 https://litv.zapi.us.kg/?id=4gtv-4gtv084
 #EXTINF:-1 tvg-name="國會頻道2HD" tvg-id="368581" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609113941000863_84.png" group-title="台湾频道",国会频道②
@@ -220,13 +224,13 @@ http://pachongbo.site:8080/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-name="緯來戲劇台" tvg-id="369224" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai2.png" group-title="台湾频道",纬来戏剧
 http://pachongbo.site:8080/tsfile/live/1186_1.m3u8
 #EXTINF:-1 tvg-name="緯來日本台" tvg-id="369284" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai3.png" group-title="台湾频道",纬来日本
-http://pachongbo.site:8080/tsfile/live/1026_1.m3u8
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="緯來電影台" tvg-id="369262" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai4.png" group-title="台湾频道",纬来电影
-http://pachongbo.site:8080/tsfile/live/1183_1.m3u8
+http://50.7.234.10:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
 #EXTINF:-1 tvg-name="緯來體育台" tvg-id="369287" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai5.png" group-title="台湾频道",纬来体育
-http://pachongbo.site:8080/tsfile/live/1011_1.m3u8
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="緯來育樂台" tvg-id="369289" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai6.png" group-title="台湾频道",纬来音乐
-http://pachongbo.site:8080/tsfile/live/1045_1.m3u8
+rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="緯來精采HD" tvg-id="368773" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Weilai7.png" group-title="台湾频道",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="博斯運動一台" tvg-id="369230" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114438517759_78.png" group-title="台湾频道",博斯运动Ⅰ
@@ -302,11 +306,11 @@ http://154.9.232.236:80/mlTW22288.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="八大綜藝台" tvg-id="370146" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110237815701_88.png" group-title="台湾频道",八大综艺
 https://litv.zapi.us.kg/?id=4gtv-4gtv039
 #EXTINF:-1 tvg-name="八大戲劇台" tvg-id="369226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/badaxiju.png" group-title="台湾频道",八大戏剧
-http://61.221.215.25:8800/hls/39/index.m3u8
+http://50.7.234.10:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
 #EXTINF:-1 tvg-name="八大綜合台" tvg-id="368953" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/badazonghe.png" group-title="台湾频道",八大综合
-http://pachongbo.site:8080/tsfile/live/1019_1.m3u8
+http://50.7.234.10:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 tvg-name="八大第一台" tvg-id="368943" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/badadiyitai.png" group-title="台湾频道",八大第一
-http://pachongbo.site:8080/tsfile/live/1043_1.m3u8
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 #EXTINF:-1 tvg-name="TechStorm" tvg-id="370212" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120259475432_46.png" group-title="台湾频道",TechStorm
 http://37.27.111.214:8080/live/80/hls.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" tvg-id="370213" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609114830590429_14.png" group-title="台湾频道",Pet Club
@@ -346,13 +350,13 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-id="370152" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110619581937_19.png" group-title="台湾频道",Arirang 阿里郎
 https://litv.zapi.us.kg/?id=4gtv-4gtv079
 #EXTINF:-1 tvg-name="龍華戲劇HD" tvg-id="368790" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111456956289_95.png" group-title="台湾频道",龙华戏剧
-http://pachongbo.site:8080/tsfile/live/1671_1.m3u8
+http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 #EXTINF:-1 tvg-name="龍華電影HD" tvg-id="368838" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111637852685_23.png" group-title="台湾频道",龙华电影
-http://pachongbo.site:8080/tsfile/live/1677_1.m3u8
+https://litv.zapi.us.kg/?id=litv-longturn03
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-id="370230" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111510430223_25.png" group-title="台湾频道",龙华日韩
 https://litv.zapi.us.kg/?id=litv-longturn11
 #EXTINF:-1 tvg-name="龍華卡通台" tvg-id="370166" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110755855994_90.png" group-title="台湾频道",龙华卡通
-http://pachongbo.site:8080/tsfile/live/1670_1.m3u8
+https://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-name="龍華偶像HD" tvg-id="368791" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111436905284_32.png" group-title="台湾频道",龙华偶像
 https://litv.zapi.us.kg/?id=litv-longturn12
 #EXTINF:-1 tvg-name="龍華經典HD" tvg-id="368846" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609121209641619_63.png" group-title="台湾频道",龙华经典
