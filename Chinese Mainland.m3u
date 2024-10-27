@@ -76,7 +76,7 @@ http://www.lizhinas.top:8688/rtp/239.252.219.94:5140
 http://www.lizhinas.top:8688/rtp/239.252.219.81:5140
 #EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVystq.png" group-title="央视频道",CCTV央视台球
 http://www.lizhinas.top:8688/rtp/239.252.219.80:5140
-#EXTINF:-1 tvg-id="436" tvg-name="TV电视指南HD" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="央视频道",CCTV电视指南
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="央视频道",CCTV电视指南
 http://www.lizhinas.top:8688/rtp/239.252.219.97:5140
 
  
@@ -298,7 +298,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1  tvg-id="" tvg-name="武博世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字付费",武博世界
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="186" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="数字付费", 魅力足球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+http://223.10.39.207:8083/rtp/239.1.1.75:8075
 #EXTINF:-1 tvg-name="游戏风云" tvg-id="222" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费", 游戏风云
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226187/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-id="176" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="数字付费", 劲爆体育
