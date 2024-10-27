@@ -340,7 +340,36 @@ http://106.59.3.147:55555/udp/239.200.201.31:8144
 http://106.59.3.147:55555/udp/239.200.201.30:8140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="182" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/chcyingmidianying.png" group-title="数字付费", CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-
+#EXTINF:-1 tvg-name="爱院线" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png" group-title="数字付费", 爱院线
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱科幻" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="数字付费", 爱科幻
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱浪漫" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱浪漫.png" group-title="数字付费", 爱浪漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱喜剧" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png" group-title="数字付费", 爱喜剧
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱悬疑" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="数字付费", 爱悬疑
+http://[2409:8087:5e08:24::11]:6610/000000001000/6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱赛车" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png" group-title="数字付费", 爱赛车
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="爱体育" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png" group-title="数字付费", 爱体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱奇谈" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱奇谈.png" group-title="数字付费", 爱奇谈
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱玩具" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png" group-title="数字付费", 爱玩具
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="爱旅行" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png" group-title="数字付费", 爱旅行
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱幼教" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱幼教.png" group-title="数字付费", 爱幼教
+http://[2409:8087:5e08:24::11]:6610/000000001000/6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱谍战" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png" group-title="数字付费", 爱谍战
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱历史" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png" group-title="数字付费", 爱历史
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?channel-id=wasusyt&Contentid=2000000004000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱科学" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png" group-title="数字付费", 爱科学
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="数字付费", 爱动漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 
 
