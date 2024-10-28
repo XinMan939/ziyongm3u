@@ -361,36 +361,36 @@ http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000150630
 http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000160630
 #EXTINF:-1 tvg-name="爱动漫" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="数字付费", 爱动漫
 http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000280630
-#EXTINF:-1 tvg-name="老故事" tvg-id="226" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="数字付费", 老故事
+#EXTINF:-1 tvg-name="老故事" tvg-id="226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/laogushi.png" group-title="数字付费", 老故事
 http://223.10.13.103:8084/udp/239.1.1.87:8087
-#EXTINF:-1 tvg-name="文物宝库" tvg-id="227" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="数字付费", 老故事
+#EXTINF:-1 tvg-name="文物宝库" tvg-id="227" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/wenwubaoku.png" group-title="数字付费", 文物宝库
 http://171.117.70.245:8085/rtp/226.0.2.110:8792
-#EXTINF:-1 tvg-name="早期教育" tvg-id="228" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="数字付费", 早期教育
+#EXTINF:-1 tvg-name="早期教育" tvg-id="228" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zaoqijiaoyu.png" group-title="数字付费", 早期教育
 http://121.29.111.242:8888/rtp/239.253.93.164:6440
-#EXTINF:-1 tvg-name="武术世界" tvg-id="229" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="数字付费", 武术世界
+#EXTINF:-1 tvg-name="武术世界" tvg-id="229" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/wushushijie.png" group-title="数字付费", 武术世界
 http://171.117.70.245:8085/rtp/226.0.2.97:8688
-#EXTINF:-1 tvg-name="环球奇观" tvg-id="233" tvg-logo="https://epg.112114.xyz/logo/环球奇观.png" group-title="数字付费", 环球奇观
+#EXTINF:-1 tvg-name="环球奇观" tvg-id="233" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/huanqiuqiguan.png" group-title="数字付费", 环球奇观
 http://171.119.207.178:6000/rtp/226.0.2.111:8800
-#EXTINF:-1 tvg-name="天元围棋" tvg-id="235" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="数字付费", 天元围棋
+#EXTINF:-1 tvg-name="天元围棋" tvg-id="235" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/tianyuanweiqi.png" group-title="数字付费", 天元围棋
 http://222.211.162.32:1880/udp/239.93.42.55:5140
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="237" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="数字付费", 发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-id="237" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/faxianzhilv.png" group-title="数字付费", 发现之旅
 http://115.239.104.249:9999/udp/233.50.201.98:5140
-#EXTINF:-1 tvg-name="环球旅游" tvg-id="238" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="数字付费", 环球旅游
+#EXTINF:-1 tvg-name="环球旅游" tvg-id="238" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/haunqiulvyou.png" group-title="数字付费", 环球旅游
 http://171.117.70.245:8085/rtp/226.0.2.127:8928
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="239" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="数字付费", 四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="239" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/sihaidiaoyu.png" group-title="数字付费", 四海钓鱼
 http://171.117.70.245:8085/rtp/226.0.2.123:8896
-#EXTINF:-1 tvg-name="书画" tvg-id="241" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="数字付费", 书画
+#EXTINF:-1 tvg-name="书画" tvg-id="241" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/shuhua.png" group-title="数字付费", 书画
 http://121.29.111.242:8888/rtp/239.253.93.214:6392
-#EXTINF:-1 tvg-name="中国天气" tvg-id="255" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="数字付费", 中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-id="255" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhonguotianqi.png" group-title="数字付费", 中国天气
 http://171.107.73.61:4000/udp/239.81.0.63:4056
-#EXTINF:-1 tvg-name="中华美食" tvg-id="262" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="数字付费", 中华美食
+#EXTINF:-1 tvg-name="中华美食" tvg-id="262" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhonghuameishi.png" group-title="数字付费", 中华美食
 http://121.29.111.242:8888/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-name="中华特产" tvg-id="264" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="数字付费", 中华特产
+#EXTINF:-1 tvg-name="中华特产" tvg-id="264" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhonghuatechan.png" group-title="数字付费", 中华特产
 http://183.191.145.227:8083/rtp/226.0.2.128:8936
-#EXTINF:-1 tvg-name="新动漫" tvg-id="283" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="数字付费", 新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-id="283" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/xindongman.png" group-title="数字付费", 新动漫
 http://183.191.145.227:8083/rtp/226.0.2.73:8496
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-id="285" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="数字付费", 七彩戏剧
 http://cn.samzhao.cloud:3001/itv/bestzb/5000000011000031116
-#EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="数字付费", 中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhoguojiaotong.png" group-title="数字付费", 中国交通
 http://122.4.30.168:8688/udp/239.21.1.115:5002
 
