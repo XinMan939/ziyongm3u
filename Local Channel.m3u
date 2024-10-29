@@ -212,7 +212,8 @@ http://202.103.213.10:8888/udp/239.81.0.8:4056
 http://e2.woc.iiiya.cn:8888/rtp/239.61.2.1:8000
 #EXTINF:-1 tvg-name="福建公共" tvg-id="267" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建公共.png" group-title="福建频道", 福建公共
 http://e2.woc.iiiya.cn:8888/rtp/239.61.2.3:8012
-#EXTINF:-1 tvg-name="福建新闻" tvg-id="268" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建新闻.png" group-title="福建频道", 福建新闻http://e2.woc.iiiya.cn:8888/rtp/239.61.2.4:8018
+#EXTINF:-1 tvg-name="福建新闻" tvg-id="268" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建新闻.png" group-title="福建频道", 福建新闻
+http://e2.woc.iiiya.cn:8888/rtp/239.61.2.4:8018
 #EXTINF:-1 tvg-name="福建电视剧" tvg-id="269" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建电视剧.png" group-title="福建频道", 福建电视剧
 http://e2.woc.iiiya.cn:8888/rtp/239.61.2.5:8024
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="270" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建旅游.png" group-title="福建频道", 福建旅游
