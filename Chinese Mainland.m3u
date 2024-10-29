@@ -187,13 +187,7 @@ http://113.93.50.81:2000/udp/239.77.0.215:5146
 
 
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字付费",求索纪录
-http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000032052
-#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="数字付费",求索动物
-http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000010046
-#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="数字付费",求索科学
-http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000032344
-#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.png" group-title="数字付费",求索生活
-http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000003382
+http://171.213.131.154:4022/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="418" tvg-name="1905环球经典" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png" group-title="数字付费",1905环球经典
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="454" tvg-name="1905力量影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905力量影院
@@ -286,7 +280,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1  tvg-id="526" tvg-name="超级体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV22.png" group-title="数字付费",超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
 #EXTINF:-1  tvg-id="536" tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字付费",魅力潇湘
-http://cn.samzhao.cloud:3001/itv/ystenlive/1000000001000006197
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
 #EXTINF:-1  tvg-id="" tvg-name="海外剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV06.png" group-title="数字付费",海外剧场
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="武博世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字付费",武博世界
@@ -361,6 +355,12 @@ http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000150630
 http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000160630
 #EXTINF:-1 tvg-name="爱动漫" tvg-id="" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="数字付费", 爱动漫
 http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000280630
+#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="数字付费",求索动物
+http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000010046
+#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="数字付费",求索科学
+http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000032344
+#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.png" group-title="数字付费",求索生活
+http://cn.samzhao.cloud:3001/itv/wasusyt/6000000002000003382
 #EXTINF:-1 tvg-name="老故事" tvg-id="226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/laogushi.png" group-title="数字付费", 老故事
 http://223.10.13.103:8084/udp/239.1.1.87:8087
 #EXTINF:-1 tvg-name="文物宝库" tvg-id="227" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/wenwubaoku.png" group-title="数字付费", 文物宝库
@@ -391,6 +391,6 @@ http://183.191.145.227:8083/rtp/226.0.2.128:8936
 http://183.191.145.227:8083/rtp/226.0.2.73:8496
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-id="285" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="数字付费", 七彩戏剧
 http://cn.samzhao.cloud:3001/itv/bestzb/5000000011000031116
-#EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhoguojiaotong.png" group-title="数字付费", 中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/zhonguojiaotong.png" group-title="数字付费", 中国交通
 http://122.4.30.168:8688/udp/239.21.1.115:5002
 
