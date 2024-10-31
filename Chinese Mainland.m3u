@@ -94,7 +94,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
 #EXTINF:-1  tvg-id="84" tvg-name="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8
-#EXTINF:-1  tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/甘肃卫视.png" group-title="卫视频道",天津卫视
+#EXTINF:-1  tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226759/index.m3u8
 #EXTINF:-1  tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
@@ -227,9 +227,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
 #EXTINF:-1  tvg-id="536" tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字付费",魅力潇湘
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
-#EXTINF:-1  tvg-id="" tvg-name="海外剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV06.png" group-title="数字付费",海外剧场
+#EXTINF:-1  tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV06.png" group-title="数字付费",海外剧场
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="武博世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字付费",武博世界
+#EXTINF:-1  tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字付费",武搏世界
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="186" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="数字付费", 魅力足球
 http://223.10.39.207:8083/rtp/239.1.1.75:8075
