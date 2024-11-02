@@ -40,29 +40,29 @@ http://121.29.111.242:8888/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV8K.png" group-title="央视频道",CCTV8K
 http://117.72.68.25:9930/ys4k.php?id=8k
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://121.29.111.242:8888/rtp/239.253.93.138:6428
+http://36.49.51.252:30007/udp/239.37.0.78:5540
 #EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://121.29.111.242:8888/rtp/239.253.93.251:6429
+http://36.49.51.252:30007/udp/239.37.0.114:5540
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://121.29.111.242:8888/rtp/239.253.93.252:6430
+http://36.49.51.252:30007/udp/239.37.0.82:5540
 #EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://121.29.111.242:8888/rtp/239.253.92.131:6113
+http://36.49.51.252:30007/udp/239.37.0.79:5540
 #EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
-http://121.29.111.242:8888/rtp/239.253.93.253:6431
+http://36.49.51.252:30007/udp/239.37.0.81:5540
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
-http://121.29.111.242:8888/rtp/239.253.93.47:6435
+http://36.49.51.252:30007/udp/239.37.0.84:5540
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
-http://121.29.111.242:8888/rtp/239.253.93.254:6432
+http://36.49.51.252:30007/udp/239.37.0.80:5540
 #EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://121.29.111.242:8888/rtp/239.253.93.122:6465
+http://36.49.51.252:30007/udp/239.37.0.230:5540
 #EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://121.29.111.242:8888/rtp/239.253.92.144:6114
+http://36.49.51.252:30007/udp/239.37.0.69:5540
 #EXTINF:-1 tvg-id="147" tvg-name="央视文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV文化精品.png" group-title="央视频道",CCTV文化精品
-http://121.29.111.242:8888/rtp/239.253.93.175:6439
+http://36.49.51.252:30007/udp/239.37.0.83:5540
 #EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://121.29.111.242:8888/rtp/239.253.93.231:6409
+http://36.49.51.252:30007/udp/239.37.0.163:5540
 #EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
-http://121.29.111.242:8888/rtp/239.253.93.249:6427
+http://36.49.51.252:30007/udp/239.37.0.115:5540
 #EXTINF:-1 tvg-id="151" tvg-name="CETV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CETV1.png" group-title="央视频道",中国教育1台
 http://121.29.111.242:8888/rtp/239.1.1.65:8065
 #EXTINF:-1 tvg-id="152" tvg-name="CETV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CETV2.png" group-title="央视频道",中国教育2台
@@ -266,11 +266,11 @@ http://115.58.217.95:4000/rtp/225.1.4.163:1203
 #EXTINF:-1  tvg-name="综合体育" tvg-id="534" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="数字付费",综合体育
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="180" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/CHC动作电影.png" group-title="数字付费", CHC动作电影
-http://115.150.112.61:4022/udp/239.252.219.85:5140
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="181" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/CHC家庭影院.png" group-title="数字付费", CHC家庭影院
-http://115.150.112.61:4022/udp/239.252.219.84:5140
+http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="182" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/CHC影迷电影.png" group-title="数字付费", CHC影迷电影
-http://112.226.139.185:9999/udp/239.253.254.154:8000
+http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/iHOT爱院线.png" group-title="数字付费", iHOT爱院线
 http://cn.samzhao.cloud:3001/itv/wasusyt/6000000006000030630
 #EXTINF:-1 tvg-name="iHOT爱科幻" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/iHOT爱科幻.png" group-title="数字付费", iHOT爱科幻
