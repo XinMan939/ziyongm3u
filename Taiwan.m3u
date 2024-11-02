@@ -142,7 +142,7 @@ http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 #EXTINF:-1 tvg-name="三立綜合台" tvg-id="370144" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/三立综合.png" group-title="台湾频道",三立综合
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-name="三立台灣台" tvg-id="368952" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/三立台湾.png" group-title="台湾频道",三立台湾
-https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+http://dreator800.top/iptv/tw.php?id=1021
 #EXTINF:-1 tvg-name="三立戲劇台HD" tvg-id="368788" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/三立戏剧.png" group-title="台湾频道",三立戏剧
 http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 #EXTINF:-1 tvg-name="三立都會台" tvg-id="369190" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/三立都会.png" group-title="台湾频道",三立都会
@@ -150,7 +150,7 @@ http://42.51.0.238:9999/php2/xz4.php?id=20
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="368814" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="台視HD" tvg-id="368558" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/台视.png" group-title="台湾频道",台视 HD
-rtmp://f13h.mine.nu/sat/tv071
+http://dreator800.top/iptv/tw.php?id=1047
 #EXTINF:-1 tvg-name="台視財經HD" tvg-id="368821" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/台视财经.png" group-title="台湾频道",台视财经
 https://litv.zapi.us.kg/?id=4gtv-4gtv056
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-id="368819" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/镜新闻.png" group-title="台湾频道",镜新闻
@@ -192,7 +192,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv004
 #EXTINF:-1 tvg-name="民視旅遊台" tvg-id="370214" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/民视旅游.png" group-title="台湾频道",民视旅游
 http://42.51.0.238:9999/php2/xz4.php?id=38
 #EXTINF:-1 tvg-name="東森新聞台" tvg-id="369248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/东森新闻.png" group-title="台湾频道",东森新闻
-https://litv.zapi.us.kg/?id=4gtv-4gtv152
+http://dreator800.top/iptv/tw.php?id=1014
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-id="369246" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/东森财经新闻.png" group-title="台湾频道",东森财经
 http://42.51.0.238:9999/php2/xz4.php?id=46
 #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/东森超视.png" group-title="台湾频道",东森超视
@@ -216,13 +216,13 @@ http://42.51.0.238:9999/php2/xz4.php?id=4
 #EXTINF:-1 tvg-name="公視戲劇" tvg-id="370226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/公视戏剧.png" group-title="台湾频道",公视戏剧
 https://litv.zapi.us.kg/?id=4gtv-4gtv042
 #EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="370211" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/GINX电子体育.png" group-title="台湾频道",GINX电子体育	
-https://litv.zapi.us.kg/?id=4gtv-4gtv053
+?id=4gtv-4gtv053
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="370186" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/猪哥亮歌厅秀.png" group-title="台湾频道",猪哥亮歌厅秀
 http://37.27.111.214:8080/live/35/hls.m3u8
 #EXTINF:-1 tvg-name="CATCHPLAY電影台" tvg-id="369260" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Catchplay电影.png" group-title="台湾频道",CatchPlay 电影
 https://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="TRACE Sport Stars HD" tvg-id="368599" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TraceSportStars.png" group-title="台湾频道",TRACE Sport Stars
-https://litv.zapi.us.kg/?id=4gtv-4gtv077
+http://dreator800.top/iptv/tw.php?id=1003
 #EXTINF:-1 tvg-name="韓國娛樂台KMTV" tvg-id="368912" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/韩国娱乐.png" group-title="台湾频道",韩国娱乐台KMTV
 http://42.51.0.238:9999/php2/xz4.php?id=21
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="368585" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MezzoLive.png" group-title="台湾频道",Mezzo Live
@@ -385,7 +385,7 @@ http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C75977801759778
 https://litv.zapi.us.kg/?id=litv-longturn19
 #EXTINF:-1 tvg-name="達文西頻道HD" tvg-id="368577" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/达文西.png" group-title="台湾频道",达文西
 http://litv.zapi.us.kg/?id=4gtv-4gtv018
-#EXTINF:-1 tvg-name="" tvg-id="368953" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/番薯台.png" group-title="台湾频道",番薯台
+#EXTINF:-1 tvg-name="番薯衛星電視台" tvg-id="369184" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/番薯台.png" group-title="台湾频道",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-id="368946" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/幸福空间居家.png" group-title="台湾频道",幸福空间居家
 http://37.27.111.214:8080/live/26/hls.m3u8
