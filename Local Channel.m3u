@@ -1,30 +1,30 @@
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz"catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="湖南经视" tvg-id="331" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南经视.png" group-title="湖南频道", 湖南经视
-http://118.255.77.160:8887/udp/239.76.253.103:9000
+http://www.erbao1981.top:8188/udp/239.76.245.116:1234
 #EXTINF:-1 tvg-name="湖南都市" tvg-id="332" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南都市.png" group-title="湖南频道", 湖南都市
-http://118.255.77.160:8887/udp/239.76.253.104:9000
+http://www.erbao1981.top:8188/udp/239.76.245.117:1234
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-id="336" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南爱晚.png" group-title="湖南频道", 湖南爱晚
-http://118.255.77.160:8887/udp/239.76.253.109:9000
+http://www.erbao1981.top:8188/udp/239.76.245.123:1234
 #EXTINF:-1 tvg-name="湖南国际" tvg-id="406" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南国际.png" group-title="湖南频道", 湖南国际
-http://118.255.77.160:8887/udp/239.76.253.102:9000
+http://www.erbao1981.top:8188/udp/239.76.245.124:1234
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-id="333" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南娱乐.png" group-title="湖南频道", 湖南娱乐
-http://118.255.77.160:8887/udp/239.76.253.105:9000
+http://www.erbao1981.top:8188/udp/239.76.245.121:1234
 #EXTINF:-1 tvg-name="湖南电影" tvg-id="334" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南电影.png" group-title="湖南频道", 湖南电影
-http://118.255.77.160:8887/udp/239.76.253.106:9000
+http://www.erbao1981.top:8188/udp/239.76.245.119:1234
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-id="335" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南电视剧.png" group-title="湖南频道", 湖南电视剧
-http://118.255.77.160:8887/udp/239.76.253.108:9000
+http://www.erbao1981.top:8188/udp/239.76.245.118:1234
 #EXTINF:-1 tvg-name="湖南教育" tvg-id="337" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南教育.png" group-title="湖南频道", 湖南教育
 http://118.255.77.160:8887/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="169" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰纪实.png" group-title="湖南频道", 金鹰纪实
-http://182.119.247.229:2000/rtp/225.1.4.172:1711
+http://www.erbao1981.top:8188/udp/239.76.245.122:1234
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="168" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰卡通.png" group-title="湖南频道", 金鹰卡通
-http://171.119.207.178:6000/rtp/226.0.2.172:9288
+http://www.erbao1981.top:8188/udp/239.76.245.120:1234
 #EXTINF:-1 tvg-name="茶频道" tvg-id="177" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/茶频道.png" group-title="湖南频道", 茶频道
-http://223.10.39.207:8083/rtp/239.1.1.77:8077
+http://www.erbao1981.top:8188/udp/239.76.245.239:1234
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-id="242" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/先锋乒羽.png" group-title="湖南频道", 先锋乒羽
 http://221.237.92.253:9999/udp/239.93.42.56:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="173" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/快乐垂钓.png" group-title="湖南频道", 快乐垂钓
-http://223.10.39.207:8083/rtp/239.1.1.86:8086
+http://www.erbao1981.top:8188/udp/239.76.245.127:1234
 #EXTINF:-1 tvg-name="东方影视" tvg-id="195" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shanghai/东方影视.png" group-title="上海频道", 东方影视
 http://116.231.244.25:8888/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-id="209" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shanghai/哈哈炫动.png" group-title="上海频道", 哈哈炫动
