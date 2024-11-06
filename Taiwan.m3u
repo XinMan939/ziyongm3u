@@ -146,7 +146,7 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="369290" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Cinemax.png" group-title="台湾频道",Cinemax
 http://dreator800.top/iptv/tw.php?id=1030
 #EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-id="369191" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/华艺MBC综合.png" group-title="台湾频道",华艺MBC综合
-http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b51c914ea88fc162f99733817397bcd6
+http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 #EXTINF:-1 tvg-name="原住民頻道" tvg-id="368927" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TITV原视.png" group-title="台湾频道",TITV 原视
 http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 tvg-name="客家電視台" tvg-id="368928" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Hakka客视.png" group-title="台湾频道",HakkaTV 客视
@@ -422,7 +422,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="影迷數位電影台HD" tvg-id="368852" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/影迷数位电影.png" group-title="台湾频道",影迷数位电影
 https://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-id="370152" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/阿里郎.png" group-title="台湾频道",Arirang 阿里郎
-https://litv.zapi.us.kg/?id=4gtv-4gtv079
+http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 #EXTINF:-1 tvg-name="龍華戲劇HD" tvg-id="368790" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/龙华戏剧.png" group-title="台湾频道",龙华戏剧
 http://dreator800.top/iptv/tw.php?id=1671
 #EXTINF:-1 tvg-name="龍華電影HD" tvg-id="368838" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/龙华电影.png" group-title="台湾频道",龙华电影
