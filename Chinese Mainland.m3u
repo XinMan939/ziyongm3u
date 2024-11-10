@@ -322,11 +322,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?
 #EXTINF:-1 tvg-name="老故事" tvg-id="226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/老故事.png" group-title="数字付费", 老故事
 http://223.10.13.103:8084/udp/239.1.1.87:8087
 #EXTINF:-1 tvg-name="文物宝库" tvg-id="227" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/文物宝库.png" group-title="数字付费", 文物宝库
-http://171.117.70.245:8085/rtp/226.0.2.110:8792
+http://222.142.70.252:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="早期教育" tvg-id="228" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/早期教育.png" group-title="数字付费", 早期教育
 http://121.29.111.242:8888/rtp/239.253.93.164:6440
 #EXTINF:-1 tvg-name="武术世界" tvg-id="229" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/武术世界.png" group-title="数字付费", 武术世界
-http://121.29.111.242:8888/rtp/239.253.93.46:6434
+http://222.142.70.252:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="环球奇观" tvg-id="233" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/环球奇观.png" group-title="数字付费", 环球奇观
 http://171.119.207.178:6000/rtp/226.0.2.111:8800
 #EXTINF:-1 tvg-name="天元围棋" tvg-id="235" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/天元围棋.png" group-title="数字付费", 天元围棋

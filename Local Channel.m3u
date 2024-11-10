@@ -16,7 +16,7 @@ http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 tvg-name="湖南教育" tvg-id="337" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南教育.png" group-title="湖南频道", 湖南教育
 http://118.255.77.160:8887/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="169" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰纪实.png" group-title="湖南频道", 金鹰纪实
-http://118.79.7.128:6000/rtp/226.0.2.194:9464
+http://222.142.70.252:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="168" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰卡通.png" group-title="湖南频道", 金鹰卡通
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-id="177" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/茶频道.png" group-title="湖南频道", 茶频道
@@ -340,19 +340,35 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226242/index.m3u8
 
 
-#EXTINF:-1 tvg-name="安徽经济生活" tvg-id="243" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽经济生活.png" group-title="安徽频道",安徽经济生活
+#EXTINF:-1 tvg-name="安徽经济生活" tvg-id="243" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽经济生活.png" group-title="安徽频道",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 tvg-name="安徽影视" tvg-id="244" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽影视.png" group-title="安徽频道",安徽影视
+#EXTINF:-1 tvg-name="安徽影视" tvg-id="244" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽影视.png" group-title="安徽频道",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 tvg-name="安徽农业科教" tvg-id="245" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽农业科教.png" group-title="安徽频道",安徽农业科教
+#EXTINF:-1 tvg-name="安徽农业科教" tvg-id="245" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽农业科教.png" group-title="安徽频道",安徽农业科教
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
-#EXTINF:-1 tvg-name="安徽公共" tvg-id="246" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽公共.png" group-title="安徽频道",安徽公共
+#EXTINF:-1 tvg-name="安徽公共" tvg-id="246" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽公共.png" group-title="安徽频道",安徽公共
 https://stream1.freetv.fun/73b72a5950f393c8fdc40d42b1b533778ee6ec53521db89854111c63bc0fe60d.ctv
-#EXTINF:-1 tvg-name="安徽综艺" tvg-id="247" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽综艺.png" group-title="安徽频道",安徽综艺
+#EXTINF:-1 tvg-name="安徽综艺" tvg-id="247" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽综艺.png" group-title="安徽频道",安徽综艺
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 tvg-name="安徽国际" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/安徽国际.png" group-title="安徽频道",安徽国际
+#EXTINF:-1 tvg-name="安徽国际" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/anhui/安徽国际.png" group-title="安徽频道",安徽国际
 http://159.75.166.157/php/ah.php?id=ahgj
 
+#EXTINF:-1 tvg-name="河南都市" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南都市.png" group-title="河南频道",河南都市
+http://222.142.70.252:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南民生" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南民生.png" group-title="河南频道",河南民生
+http://222.142.70.252:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南法治" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南法治.png" group-title="河南频道",河南法治
+http://222.142.70.252:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南电视剧" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南电视剧.png" group-title="河南频道",河南电视剧
+http://222.142.70.252:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南新闻" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南新闻.png" group-title="河南频道",河南新闻
+http://222.142.70.252:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南公共" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南公共.png" group-title="河南频道",河南公共
+http://115.60.241.249:2000/udp/225.1.4.58:1087
+#EXTINF:-1 tvg-name="河南乡村" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南乡村.png" group-title="河南频道",河南乡村
+http://222.142.70.252:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="移动戏曲" tvg-id="248" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南都市.png" group-title="河南频道",移动戏曲
+http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 
 
 
