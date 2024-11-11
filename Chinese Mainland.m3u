@@ -40,29 +40,29 @@ http://121.29.111.242:8888/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV8K.png" group-title="央视频道",CCTV8K
 http://117.72.68.25:9930/ys4k.php?id=8k
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://119.98.133.138:4000/rtp/239.69.1.74:10084
+http://60.2.190.206:4000/rtp/239.253.93.138:6428
 #EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://ds.shixd.cn:5957/udp/239.49.8.89:8000
+http://60.2.190.206:4000/rtp/239.253.93.251:6429
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://ds.shixd.cn:5957/udp/239.49.8.91:8000
+http://60.2.190.206:4000/rtp/239.253.93.252:6430
 #EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
-http://ds.shixd.cn:5957/udp/239.49.8.87:8000
+http://60.2.190.206:4000/rtp/239.253.92.131:6113
 #EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
-http://ds.shixd.cn:5957/udp/239.49.8.92:8000
+http://60.2.190.206:4000/rtp/239.253.93.253:6431
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
 http://ds.shixd.cn:5957/udp/239.49.8.88:8000
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
-http://ds.shixd.cn:5957/udp/239.49.8.85:8000
+http://60.2.190.206:4000/rtp/239.253.93.254:6432
 #EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://ds.shixd.cn:5957/udp/239.49.8.86:8000
+http://60.2.190.206:4000/rtp/239.253.93.122:6465
 #EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
-http://ds.shixd.cn:5957/udp/239.49.8.93:8000
+http://60.2.190.206:4000/rtp/239.253.92.144:6114
 #EXTINF:-1 tvg-id="147" tvg-name="央视文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV文化精品.png" group-title="央视频道",CCTV文化精品
-http://ds.shixd.cn:5957/udp/239.49.8.90:8000
+http://60.2.190.206:4000/rtp/239.253.93.175:6439
 #EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
-http://ds.shixd.cn:5957/udp/239.49.8.32:8000
+http://60.2.190.206:4000/rtp/239.253.93.231:6409
 #EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
-http://ds.shixd.cn:5957/udp/239.49.8.84:8000
+http://60.2.190.206:4000/rtp/239.253.93.249:6427
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CGTN.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CGTN俄语.png" group-title="央视频道",CGTN俄语
@@ -174,7 +174,7 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="454" tvg-name="1905力量影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/1905电影.png" group-title="数字付费",1905力量影院
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="230" tvg-name="梨园频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/梨园频道.png" group-title="数字付费",梨园频道
-http://111.165.0.98:8888/udp/225.1.2.104:5002
+http://60.2.190.206:4000/rtp/239.253.93.133:6441
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/重温经典.png" group-title="数字付费",重温经典
 http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 #EXTINF:-1  tvg-id="346" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/纯享4K.png" group-title="数字付费",纯享4K
@@ -270,7 +270,7 @@ http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226599/index.m3u
 #EXTINF:-1  tvg-name="睛彩篮球" tvg-id="391" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩篮球.png" group-title="数字付费", 睛彩篮球
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1  tvg-name="睛彩青少" tvg-id="533" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩青少.png" group-title="数字付费",晴彩青少
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8
+http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000120
 #EXTINF:-1  tvg-name="睛彩广场舞" tvg-id="392" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩广场舞.png" group-title="数字付费",晴彩广场舞
 http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1  tvg-name="睛彩中原" tvg-id="329" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩中原.png" group-title="数字付费",睛彩中原
@@ -320,15 +320,15 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?
 #EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/求索生活.png" group-title="数字付费",求索生活
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="老故事" tvg-id="226" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/老故事.png" group-title="数字付费", 老故事
-http://223.10.13.103:8084/udp/239.1.1.87:8087
+http://60.2.190.206:4000/rtp/239.253.92.132:8068
 #EXTINF:-1 tvg-name="文物宝库" tvg-id="227" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/文物宝库.png" group-title="数字付费", 文物宝库
-http://175.11.68.79:8888/udp/239.76.252.180:9000
+http://60.2.190.206:4000/rtp/239.253.93.180:6437
 #EXTINF:-1 tvg-name="早期教育" tvg-id="228" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/早期教育.png" group-title="数字付费", 早期教育
-http://121.29.111.242:8888/rtp/239.253.93.164:6440
+http://60.2.190.206:4000/rtp/239.253.93.164:6440
 #EXTINF:-1 tvg-name="武术世界" tvg-id="229" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/武术世界.png" group-title="数字付费", 武术世界
 http://222.142.70.252:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="环球奇观" tvg-id="233" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/环球奇观.png" group-title="数字付费", 环球奇观
-http://171.119.207.178:6000/rtp/226.0.2.111:8800
+http://60.2.190.206:4000/rtp/239.253.92.130:8069
 #EXTINF:-1 tvg-name="天元围棋" tvg-id="235" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/天元围棋.png" group-title="数字付费", 天元围棋
 http://120.76.248.139/live/bfgd/4200000633.m3u8
 #EXTINF:-1 tvg-name="国学" tvg-id="236" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/国学.png" group-title="数字付费", 国学
@@ -340,22 +340,23 @@ http://120.76.248.139/live/bfgd/4200000147.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-id="239" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/四海钓鱼.png" group-title="数字付费", 四海钓鱼
 http://120.76.248.139/live/bfgd/4200000229.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-id="241" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/书画.png" group-title="数字付费", 书画
-http://106.112.124.238:7000/rtp/239.254.200.217:6267
+http://60.2.190.206:4000/rtp/239.253.93.214:6392
 #EXTINF:-1 tvg-name="中国天气" tvg-id="255" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/中国天气.png" group-title="数字付费", 中国天气
-http://171.107.73.61:4000/udp/239.81.0.63:4056
+http://60.223.72.107:8001/rtp/226.0.2.103:8736
 #EXTINF:-1 tvg-name="中华美食" tvg-id="262" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/中华美食.png" group-title="数字付费", 中华美食
-http://27.190.80.176:7000/rtp/239.254.201.189:7171
+http://60.2.190.206:4000/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-name="中华特产" tvg-id="264" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/中华特产.png" group-title="数字付费", 中华特产
 http://120.76.248.139/live/bfgd/4200000158.m3u8
 #EXTINF:-1 tvg-name="新动漫" tvg-id="283" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/新动漫.png" group-title="数字付费", 新动漫
-http://183.191.145.227:8083/rtp/226.0.2.73:8496
+http://60.2.190.206:4000/rtp/239.253.93.217:6395
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-id="285" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/七彩戏剧.png" group-title="数字付费", 七彩戏剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/中国交通.png" group-title="数字付费", 中国交通
-http://122.4.30.168:8688/udp/239.21.1.115:5002
+http://61.138.167.36:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-name="收藏天下" tvg-id="424" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/收藏天下.png" group-title="数字付费", 收藏天下
 http://120.76.248.139/live/bfgd/4200000155.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-id="437" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/中学生.png" group-title="数字付费", 中学生
 http://gmxw.7766.org:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/财富天下.png" group-title="数字付费", 财富天下
 http://120.76.248.139/live/bfgd/4200000231.m3u8
+
