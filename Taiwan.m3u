@@ -285,6 +285,8 @@ http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=1144
 https://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="TRACE Sport Stars HD" tvg-id="368599" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TraceSportStars.png" group-title="台湾频道",TRACE Sport Stars
 http://dreator800.top/iptv/tw.php?id=1003
+#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="370195" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TraceUrban.png" group-title="台湾频道",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="韓國娛樂台KMTV" tvg-id="368912" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/韩国娱乐.png" group-title="台湾频道",韩国娱乐台KMTV
 http://dreator800.top/iptv/tw.php?id=1024
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="368585" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MezzoLive.png" group-title="台湾频道",Mezzo Live
