@@ -347,6 +347,10 @@ http://37.27.111.214:8080/live/85/hls.m3u8
 http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=23370665eca04beca705a72093c4f0da
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-id="370238" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/金光布袋戏.png" group-title="台湾频道",金光布袋戏
 http://37.27.111.214:8080/live/93/hls.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-id="369234" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/BBCNews.png" group-title="台湾频道",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="368929" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/BBCEarth.png" group-title="台湾频道",BBC Earth
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="DAZN 1" tvg-id="369288" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/DAZN1.png" group-title="台湾频道",DAZN 1
 http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="369285" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/DAZN2.png" group-title="台湾频道",DAZN 2
