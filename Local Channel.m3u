@@ -14,15 +14,16 @@ http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-id="335" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南电视剧.png" group-title="湖南频道", 湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 tvg-name="湖南教育" tvg-id="337" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/湖南教育.png" group-title="湖南频道", 湖南教育
-http://118.255.77.160:8887/udp/239.76.252.233:9000
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="169" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰纪实.png" group-title="湖南频道", 金鹰纪实
 http://222.142.70.252:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="168" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/金鹰卡通.png" group-title="湖南频道", 金鹰卡通
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+http://219.128.121.202:59902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="茶频道" tvg-id="177" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/茶频道.png" group-title="湖南频道", 茶频道
-http://171.122.199.103:8085/rtp/226.0.2.213:9616
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-id="242" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/先锋乒羽.png" group-title="湖南频道", 先锋乒羽
-http://49.79.92.195:55555/rtp/239.49.1.233:6000
+http://111.8.242.151:9902/tsfile/live/1042_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="173" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hunan/快乐垂钓.png" group-title="湖南频道", 快乐垂钓
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 
@@ -84,50 +85,50 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="130" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京新闻.png" group-title="北京频道", 北京新闻
-http://114.254.80.240:2222/rtp/239.3.1.159:8000
+http://123.113.185.113:9000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-id="131" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京影视.png" group-title="北京频道", 北京影视
-http://114.254.80.240:2222/rtp/239.3.1.158:8000
+http://123.113.185.113:9000/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-id="132" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京文艺.png" group-title="北京频道", 北京文艺
-http://114.254.80.240:2222/rtp/239.3.1.242:8000
+http://123.113.185.113:9000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-id="133" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京财经.png" group-title="北京频道", 北京财经
-http://114.254.80.240:2222/rtp/239.3.1.116:8000
+http://123.113.185.113:9000/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-id="134" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京生活.png" group-title="北京频道", 北京生活
-http://114.254.80.240:2222/rtp/239.3.1.117:8000
+http://123.113.185.113:9000/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="135" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/卡酷少儿.png" group-title="北京频道", 卡酷少儿
-http://114.254.80.240:2222/rtp/239.3.1.189:8000
+http://123.113.185.113:9000/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-id="136" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京纪实科教.png" group-title="北京频道", 北京纪实科教
-http://114.254.80.240:2222/rtp/239.3.1.115:8000
+http://123.113.185.113:9000/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-id="137" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京体育休闲.png" group-title="北京频道", 北京体育休闲
-http://114.254.80.240:2222/rtp/239.3.1.243:8000
+http://123.113.185.113:9000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-id="375" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/北京国际.png" group-title="北京频道", 北京国际
-http://114.254.80.240:2222/rtp/239.3.1.235:8000
+http://123.113.185.113:9000/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京淘精彩" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/淘精彩.png" group-title="北京频道", 北京淘精彩
-http://222.129.33.249:9001/rtp/239.3.1.178:8001
+http://123.113.185.113:9000/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-name="北京淘Baby" tvg-id="376" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/淘BABY.png" group-title="北京频道", 北京淘Baby
-http://114.254.80.240:2222/rtp/239.3.1.238:8001
+http://123.113.185.113:9000/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="北京淘电影" tvg-id="377" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/淘电影.png" group-title="北京频道", 北京淘电影
-http://114.254.80.240:2222/rtp/239.3.1.250:8001
+http://123.113.185.113:9000/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="北京淘娱乐" tvg-id="378" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/淘娱乐.png" group-title="北京频道", 北京淘娱乐
-http://114.254.80.240:2222/rtp/239.3.1.100:8001
+http://123.113.185.113:9000/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-id="380" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/beijing/淘剧场.png" group-title="北京频道", 北京淘剧场
-http://114.254.80.240:2222/rtp/239.3.1.95:8001
+http://123.113.185.113:9000/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="158" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东新闻.png" group-title="广东频道", 广东新闻
-http://116.22.255.89:9999/udp/239.77.0.173:5146
+http://183.53.109.165:9090/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-id="319" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东民生.png" group-title="广东频道", 广东民生
-http://116.22.255.89:9999/udp/239.77.0.225:5146
+http://183.53.109.165:9090/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-id="162" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东影视.png" group-title="广东频道", 广东影视
-http://116.22.255.89:9999/udp/239.77.0.217:5146
+http://183.53.109.165:9090/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-id="156" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东体育.png" group-title="广东频道", 广东体育
-http://116.22.255.89:9999/udp/239.77.0.112:5146
+http://183.53.109.165:9090/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东综艺" tvg-id="161" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东综艺.png" group-title="广东频道", 广东综艺
-http://116.22.255.89:9999/udp/239.77.1.237:5146
+http://183.53.109.165:9090/udp/239.77.1.237:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="164" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东少儿.png" group-title="广东频道", 广东少儿
-http://116.22.255.89:9999/udp/239.77.0.250:5146
+http://183.53.109.165:9090/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东经济科教" tvg-id="160" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东经济科教.png" group-title="广东频道", 广东经济科教
-http://116.22.255.89:9999/udp/239.77.0.167:5146
+http://183.53.109.165:9090/udp/239.77.0.167:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="155" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东珠江.png" group-title="广东频道", 广东珠江
-http://116.22.255.89:9999/udp/239.77.0.1:5146
+http://183.53.109.165:9090/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广州综合.png" group-title="广东频道", 广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广州新闻.png" group-title="广东频道", 广州新闻
@@ -141,48 +142,50 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695
 #EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/南国都市.png" group-title="广东频道", 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="潮州民生" tvg-id="潮州民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/潮州民生.png" group-title="广东频道", 潮州民生
-http://116.22.255.89:9999/udp/239.253.43.75:5146
+http://183.53.109.165:9090/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-id="347" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头新闻综合.png" group-title="广东频道",汕头综合
-http://116.22.255.89:9999/udp/239.77.1.130:5146
+http://183.53.109.165:9090/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-id="348" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头经济生活.png" group-title="广东频道", 汕头经济生活
-http://116.22.255.89:9999/udp/239.77.1.131:5146
+http://183.53.109.165:9090/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" tvg-id="349" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头文旅体育.png" group-title="广东频道", 汕头文旅体育
-http://116.22.255.89:9999/udp/239.77.1.132:5146
+http://183.53.109.165:9090/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-name="深圳都市" tvg-id="532" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳都市.png" group-title="广东频道", 深圳都市
-http://116.22.255.89:9999/udp/239.77.1.176:5146
+http://183.53.109.165:9090/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-id="408" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳电视剧.png" group-title="广东频道", 深圳电视剧
-http://116.22.255.89:9999/udp/239.77.1.125:5146
+http://183.53.109.165:9090/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经" tvg-id="410" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳财经.png" group-title="广东频道", 深圳财经生活
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
 #EXTINF:-1 tvg-name="深圳娱乐" tvg-id="531" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳娱乐.png" group-title="广东频道", 深圳娱乐
-http://116.22.255.89:9999/udp/239.77.1.243:5146
+http://183.53.109.165:9090/udp/239.77.1.243:5146
 #EXTINF:-1 tvg-name="深圳少儿" tvg-id="530" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳少儿.png" group-title="广东频道", 深圳少儿
-http://116.22.255.89:9999/udp/239.77.1.244:5146
+http://183.53.109.165:9090/udp/239.77.1.244:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-id="529" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳体育健康.png" group-title="广东频道", 深圳体育健康
-http://116.22.255.89:9999/udp/239.77.1.140:5146
+http://183.53.109.165:9090/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳宝安" tvg-id="深圳宝安" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳宝安.png" group-title="广东频道", 深圳宝安
-http://116.22.255.89:9999/udp/239.77.1.67:5146
+http://183.53.109.165:9090/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="159" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/嘉佳卡通.png" group-title="广东频道", 嘉佳卡通
-http://116.22.255.89:9999/udp/239.77.0.179:5146
+http://183.53.109.165:9090/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-id="165" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/岭南戏曲.png" group-title="广东频道", 岭南戏曲
-http://116.22.255.89:9999/udp/239.77.0.122:5146
+http://183.53.109.165:9090/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-name="现代教育" tvg-id="506" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/现代教育.png" group-title="广东频道", 现代教育
-http://116.22.255.89:9999/udp/239.77.0.213:5146
+http://183.53.109.165:9090/udp/239.77.0.213:5146
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="208" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/优漫卡通.png" group-title="江苏频道", 优漫卡通
-http://49.79.50.108:8889/rtp/239.49.8.119:8000
+http://180.114.26.100:8800/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="214" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏城市.png" group-title="江苏频道", 江苏城市
-http://49.79.50.108:8889/rtp/239.49.8.107:8000
+http://180.114.26.100:8800/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-name="江苏国际" tvg-id="214" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏国际.png" group-title="江苏频道", 江苏国际
+http://180.114.26.100:8800/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="216" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏教育.png" group-title="江苏频道", 江苏教育
-https://stream1.freetv.fun/jiang-su-jiao-yu-4.ctv
+http://180.114.26.100:8800/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="217" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏影视.png" group-title="江苏频道", 江苏影视
-http://49.79.50.108:8889/rtp/239.49.8.118:8000
+http://180.114.26.100:8800/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="218" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏综艺.png" group-title="江苏频道", 江苏综艺
-http://49.79.50.108:8889/rtp/239.49.8.108:8000
+http://180.114.26.100:8800/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏新闻" tvg-id="219" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏新闻.png" group-title="江苏频道", 江苏新闻
-http://49.79.50.108:8889/rtp/239.49.8.120:8000
+http://180.114.26.100:8800/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏体育休闲.png" group-title="江苏频道", 江苏体育休闲
-http://49.79.50.108:8889/rtp/239.49.8.117:8000
+http://180.114.26.100:8800/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/苏州新闻综合.png" group-title="江苏频道", 苏州新闻综合
 http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/苏州社会经济.png" group-title="江苏频道", 苏州社会经济
@@ -196,6 +199,9 @@ https://stream1.freetv.fun/nan-jing-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="南京教育科技" tvg-id="456" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/南京教育科技.png" group-title="江苏频道", 南京教育科技
 https://stream1.freetv.fun/nan-jing-jiao-ke-2.m3u8
 
+
+
+
 #EXTINF:-1 tvg-name="海南新闻" tvg-id="287" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hainan/海南新闻.png" group-title="海南频道", 海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="286" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hainan/海南经济.png" group-title="海南频道", 海南自贸
@@ -208,34 +214,34 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="212" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangxi/广西新闻.png" group-title="广西频道", 广西新闻
-http://202.103.213.10:8888/udp/239.81.0.248:4056
+http://171.104.192.207:8181/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-name="广西影视" tvg-id="211" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangxi/广西影视.png" group-title="广西频道", 广西影视
-http://202.103.213.10:8888/udp/239.81.0.250:4056
+http://171.104.192.207:8181/tsfile/live/1061_1.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-id="210" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangxi/广西都市.png" group-title="广西频道", 广西都市
-http://202.103.213.10:8888/udp/239.81.0.247:4056
+http://171.104.192.207:8181/tsfile/live/1058_1.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="397" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangxi/广西综艺旅游.png" group-title="广西频道", 广西综艺旅游
-http://202.103.213.10:8888/udp/239.81.0.214:4056
+http://171.104.192.207:8181/tsfile/live/1065_1.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-id="213" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangxi/广西国际.png" group-title="广西频道", 广西国际
-http://202.103.213.10:8888/udp/239.81.0.8:4056
+http://220.173.25.163:5432/udp/239.81.0.8:4056
 
 #EXTINF:-1 tvg-name="福建综合" tvg-id="266" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建综合.png" group-title="福建频道", 福建综合
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.1:8000
+http://27.151.176.131:4022/rtp/239.61.3.4:9542
 #EXTINF:-1 tvg-name="福建公共" tvg-id="267" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建公共.png" group-title="福建频道", 福建公共
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.3:8012
+http://27.151.176.131:4022/rtp/239.61.2.3:8012
 #EXTINF:-1 tvg-name="福建新闻" tvg-id="268" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建新闻.png" group-title="福建频道", 福建新闻
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.4:8018
+http://27.151.176.131:4022/rtp/239.61.2.4:8018
 #EXTINF:-1 tvg-name="福建电视剧" tvg-id="269" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建电视剧.png" group-title="福建频道", 福建电视剧
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.5:8024
+http://27.151.176.131:4022/rtp/239.61.2.5:8024
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="270" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建旅游.png" group-title="福建频道", 福建旅游
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.6:8030
+http://27.151.176.131:4022/rtp/239.61.2.6:8030
 #EXTINF:-1 tvg-name="福建文体" tvg-id="271" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建文体.png" group-title="福建频道",福建文体
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.160:8948
+http://27.151.176.131:4022/rtp/239.61.2.160:8948
 #EXTINF:-1 tvg-name="福建经济" tvg-id="272" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建经济.png" group-title="福建频道",福建经济
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.7:8036
+http://27.151.176.131:4022/rtp/239.61.2.7:8036
 #EXTINF:-1 tvg-name="福建少儿" tvg-id="273" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建少儿.png" group-title="福建频道", 福建少儿
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.9:8048
+http://27.151.176.131:4022/rtp/239.61.2.9:8048
 #EXTINF:-1 tvg-name="福建教育" tvg-id="433" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/fujian/福建教育.png" group-title="福建频道", 福建教育
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.173:9026
+http://27.151.176.131:4022/rtp/239.61.2.173:9026
 
 #EXTINF:-1 tvg-name="四川经济" tvg-id="113" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/sichuan/四川经济.png" group-title="四川频道", 四川经济
 http://wouu.net:9977/udp/239.93.1.101:5140
@@ -272,9 +278,9 @@ http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北影视" tvg-id="304" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北影视.png" group-title="湖北频道", 湖北影视
 http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北教育" tvg-id="305" tvg-id="307" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北教育.png" group-title="湖北频道", 湖北教育
-http://122.189.103.234:8010/udp/228.0.0.206:6108
+http://220.249.114.102:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-id="306" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北生活.png" group-title="湖北频道", 湖北生活
-https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv
+http://220.249.114.102:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-id="303" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北公共新闻.png" group-title="湖北频道", 湖北公共新闻
 http://58.48.37.158:1111/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="湖北经视" tvg-id="300" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北经视.png" group-title="湖北频道", 湖北经视
