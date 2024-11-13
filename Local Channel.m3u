@@ -378,22 +378,54 @@ http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 
 #EXTINF:-1 tvg-name="山东教育" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东教育.png" group-title="山东频道",山东教育
 http://[2409:8087:1a0a:df::402e]/wh7f454c46tw2754383805_1220934996/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1713110589&from=4&hms_devid=1103&online=1713110589&vqe=3
-#EXTINF:-1 tvg-name="山东新闻" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东新闻.png" group-title="山东频道",山东新闻
+#EXTINF:-1 tvg-name="山东新闻" tvg-id="381" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东新闻.png" group-title="山东频道",山东新闻
 http://123.129.70.178:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="山东农科" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东农科.png" group-title="山东频道",山东农科
+#EXTINF:-1 tvg-name="山东农科" tvg-id="382" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东农科.png" group-title="山东频道",山东农科
 http://112.234.23.81:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东齐鲁.png" group-title="山东频道",山东齐鲁
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-id="383" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东齐鲁.png" group-title="山东频道",山东齐鲁
 http://123.129.70.178:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-name="山东文旅" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东文旅.png" group-title="山东频道",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-id="384" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东文旅.png" group-title="山东频道",山东文旅
 http://139.129.231.228:1234/udp/239.21.1.176:5002
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东体育.png" group-title="山东频道",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-id="385" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东体育.png" group-title="山东频道",山东体育休闲
 http://123.129.70.178:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东生活.png" group-title="山东频道",山东生活
+#EXTINF:-1 tvg-name="山东生活" tvg-id="386" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东生活.png" group-title="山东频道",山东生活
 http://123.129.70.178:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东综艺.png" group-title="山东频道",山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-id="387" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东综艺.png" group-title="山东频道",山东综艺
 http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="221" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东少儿.png" group-title="山东频道",山东少儿
+#EXTINF:-1 tvg-name="山东少儿" tvg-id="388" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shandong/山东少儿.png" group-title="山东频道",山东少儿
 http://123.129.70.178:9901/tsfile/live/1004_1.m3u8
+
+#EXTINF:-1 tvg-name="辽宁公共" tvg-id="275" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁公共.png" group-title="辽宁频道",辽宁公共
+http://42.57.170.12:9004/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-name="辽宁北方" tvg-id="276" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁北方.png" group-title="辽宁频道",辽宁北方
+http://42.57.170.12:9004/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-id="277" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁影视剧.png" group-title="辽宁频道",辽宁影视剧
+http://42.57.170.12:9004/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="278" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁教育青少.png" group-title="辽宁频道",辽宁教育青少
+http://42.57.170.12:9004/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-name="辽宁生活" tvg-id="279" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁生活.png" group-title="辽宁频道",辽宁生活
+http://42.57.170.12:9004/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-name="辽宁经济" tvg-id="280" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁经济.png" group-title="辽宁频道",辽宁经济
+http://42.57.170.12:9004/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-name="辽宁都市" tvg-id="281" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁都市.png" group-title="辽宁频道",辽宁都市
+http://42.57.170.12:9004/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-name="辽宁体育休闲" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/liaoning/辽宁体育休闲.png" group-title="辽宁频道",辽宁体育休闲
+http://42.57.170.12:9004/rtp/232.0.0.164:1234
+
+#EXTINF:-1 tvg-name="吉林公共新闻" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林公共新闻.png" group-title="吉林频道",吉林公共新闻
+http://61.138.167.36:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="吉林都市" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林都市.png" group-title="吉林频道",吉林都市
+http://61.138.167.36:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="吉林影视" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林影视.png" group-title="吉林频道",吉林影视
+http://61.138.167.36:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="吉林生活" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林生活.png" group-title="吉林频道",吉林生活
+http://61.138.167.36:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="吉林乡村" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林乡村.png" group-title="吉林频道",吉林乡村
+http://61.138.167.36:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="吉林综艺文化" tvg-id="528" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林综艺文化.png" group-title="吉林频道",吉林综艺文化
+http://61.138.167.36:9901/tsfile/live/1003_1.m3u8
+
+
 
 
 
