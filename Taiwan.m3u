@@ -372,9 +372,9 @@ http://dreator800.top/iptv/tw.php?id=1025
 #EXTINF:-1 tvg-name="動物星球" tvg-id="368948" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/动物星球.png" group-title="台湾频道",动物星球
 http://dreator800.top/iptv/tw.php?id=1004
 #EXTINF:-1 tvg-name="國會頻道1HD" tvg-id="368580" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/国会频道①.png" group-title="台湾频道",国会频道①
-http://37.27.111.214:8080/live/103/hls.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv084
 #EXTINF:-1 tvg-name="國會頻道2HD" tvg-id="368581" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/国会频道②.png" group-title="台湾频道",国会频道②
-http://37.27.111.214:8080/live/104/hls.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv085
 #EXTINF:-1 tvg-name="緯來綜合台" tvg-id="368944" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来综合.png" group-title="台湾频道",纬来综合
 http://211.72.65.236:8518/.m3u8
 #EXTINF:-1 tvg-name="緯來戲劇台" tvg-id="369224" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来戏剧.png" group-title="台湾频道",纬来戏剧
