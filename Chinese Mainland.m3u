@@ -80,7 +80,7 @@ http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-id="152" tvg-name="CETV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CETV2.png" group-title="央视频道",中国教育2台
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="CETV3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CETV3.png" group-title="央视频道",中国教育3台
-http://114.243.104.98:8824/rtp/239.3.1.55:4120
+http://123.118.225.6:9090/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-id="154" tvg-name="CETV4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CETV4.png" group-title="央视频道",中国教育4台
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 
