@@ -49,7 +49,7 @@ http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://live.hg16888.vip/mytvsuper/CRTE
+https://4gtv.mytvsuper.xyz/mytvsuper/CRTE
 #EXTINF:-1 tvg-name="28AI智慧賽馬" tvg-id="394087" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/28AI 智慧赛马.png" group-title="港澳频道",28AI 智慧赛马
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/有线新闻.png" group-title="港澳频道",有线新闻
@@ -70,7 +70,7 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://live.hg16888.vip/mytvsuper/CCCM
+https://4gtv.mytvsuper.xyz/mytvsuper/CCCM
 #EXTINF:-1 tvg-name="天映频道" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映频道.png" group-title="港澳频道",天映频道
 http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
 #EXTINF:-1 tvg-name="天映经典频道" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映经典频道.png" group-title="港澳频道",天映经典频道
@@ -79,7 +79,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36581.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-https://live.hg16888.vip/mytvsuper/SMS
+https://4gtv.mytvsuper.xyz/mytvsuper/SMS
 #EXTINF:-1 tvg-name="tvN" tvg-id="368326" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVN.png" group-title="港澳频道",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8	
 #EXTINF:-1 tvg-name="DW德國之聲" tvg-id="370254" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/DW德国之声.png" group-title="港澳频道",DW 德国之声
@@ -94,14 +94,14 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-https://live.hg16888.vip/mytvsuper/CAXN
+https://4gtv.mytvsuper.xyz/mytvsuper/CAXN
 #EXTINF:-1 tvg-name="亞洲新聞台" tvg-id="368377" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/亚洲新闻.png" group-title="港澳频道",CNA亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="無線衛星亞洲台" tvg-id="368357" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBS亚洲.png" group-title="港澳频道",TVBS Asia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-https://live.hg16888.vip/mytvsuper/CTS1
+https://4gtv.mytvsuper.xyz/mytvsuper/CTS1
 #EXTINF:-1 tvg-name="ZooMoo" tvg-id="368368" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ZooMoo.png" group-title="港澳频道",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-name="Nick Jr." tvg-id="368578" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/尼克国际幼儿频道.png" group-title="港澳频道",尼克幼儿
@@ -114,7 +114,7 @@ http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-https://live.hg16888.vip/mytvsuper/LN4
+https://4gtv.mytvsuper.xyz/mytvsuper/LN4
 #EXTINF:-1 tvg-name="ViuTV" tvg-id="368897" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ViuTV.png" group-title="港澳频道",Viu TV
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8	
 #EXTINF:-1 tvg-name="ViuTV Six" tvg-id="368905" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ViuTVSix.png" group-title="港澳频道",ViuTV Six
@@ -122,7 +122,7 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-name="HOY 國際財經台" tvg-id="368904" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HOY76.png" group-title="港澳频道",HOY 国际财经
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b47-golive.flv
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="368903" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HOY77.png" group-title="港澳频道",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+http://106.53.99.30/iptv.php?id=80
 #EXTINF:-1 tvg-name="HOY TV 資訊台" tvg-id="368898" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HOY78.png" group-title="港澳频道",HOY 资讯
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="368342" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/France24.png" group-title="港澳频道",France 24
@@ -131,14 +131,14 @@ http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-https://live.hg16888.vip/mytvsuper/CWIN
+https://4gtv.mytvsuper.xyz/mytvsuper/CWIN
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368336" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB翡翠.png" group-title="港澳频道",TVB 翡翠
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠4K" tvg-id="380355" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB翡翠.png" group-title="港澳频道",TVB 翡翠
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://live.hg16888.vip/mytvsuper/JUHD
+https://4gtv.mytvsuper.xyz/mytvsuper/JUHD
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-id="368358" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB翡翠.png" group-title="港澳频道",TVB 黄金翡翠
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8	
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB明珠.png" group-title="港澳频道",TVB 明珠
@@ -151,32 +151,32 @@ http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-https://live.hg16888.vip/mytvsuper/TVO
+https://4gtv.mytvsuper.xyz/mytvsuper/TVO
 #EXTINF:-1 tvg-name="戲曲台" tvg-id="368353" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道",TVB 戏曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-https://live.hg16888.vip/mytvsuper/CCOC
+https://4gtv.mytvsuper.xyz/mytvsuper/CCOC
 #EXTINF:-1 tvg-name="亞洲劇台" tvg-id="368335" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/亚洲剧台.png" group-title="港澳频道",TVB 亚洲剧台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-https://live.hg16888.vip/mytvsuper/CTVS
+https://4gtv.mytvsuper.xyz/mytvsuper/CTVS
 #EXTINF:-1 tvg-name="粵語片台" tvg-id="368381" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/粤语片台.png" group-title="港澳频道",TVB 粤语片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-https://live.hg16888.vip/mytvsuper/CCLM
+https://4gtv.mytvsuper.xyz/mytvsuper/CCLM
 #EXTINF:-1 tvg-name="華語劇台" tvg-id="368344" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/华语剧台.png" group-title="港澳频道",TVB 华语剧台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-https://live.hg16888.vip/mytvsuper/CDR3
+https://4gtv.mytvsuper.xyz/mytvsuper/CDR3
 #EXTINF:-1 tvg-name="SUPER Kids Channel" tvg-id="368380" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Super Kids Channel.png" group-title="港澳频道",Super Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-https://live.hg16888.vip/mytvsuper/KID
+https://4gtv.mytvsuper.xyz/mytvsuper/KID
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="3493" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB星河.png" group-title="港澳频道",TVB 星河
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8	
 #EXTINF:-1 tvg-name="無綫新聞台" tvg-id="368359" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB无线新闻.png" group-title="港澳频道",TVB 无线新闻
@@ -189,37 +189,37 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://live.hg16888.vip/mytvsuper/B
+https://4gtv.mytvsuper.xyz/mytvsuper/B
 #EXTINF:-1 tvg-name="myTV SUPER直播足球3台" tvg-id="368345" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道",MyTV Super直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-https://live.hg16888.vip/mytvsuper/EVT3
+https://4gtv.mytvsuper.xyz/mytvsuper/EVT3
 #EXTINF:-1 tvg-name="myTV SUPER直播足球4台" tvg-id="368328" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道",MyTV Super直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-https://live.hg16888.vip/mytvsuper/EVT4
+https://4gtv.mytvsuper.xyz/mytvsuper/EVT4
 #EXTINF:-1 tvg-name="myTV SUPER直播足球5台" tvg-id="368379" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道",MyTV Super直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-https://live.hg16888.vip/mytvsuper/EVT5
+https://4gtv.mytvsuper.xyz/mytvsuper/EVT5
 #EXTINF:-1 tvg-name="myTV SUPER直播足球6台" tvg-id="398976" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道",MyTV Super直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-https://live.hg16888.vip/mytvsuper/EVT6
+https://4gtv.mytvsuper.xyz/mytvsuper/EVT6
 #EXTINF:-1 tvg-name="FashionBox" tvg-id="368356" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/FashionBox.png" group-title="港澳频道",FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://live.hg16888.vip/mytvsuper/FBX
+https://4gtv.mytvsuper.xyz/mytvsuper/FBX
 #EXTINF:-1 tvg-name="創世電視" tvg-id="368329"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/创世电视.png" group-title="港澳频道",创世电视
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-https://live.hg16888.vip/mytvsuper/CRE
+https://4gtv.mytvsuper.xyz/mytvsuper/CRE
 #EXTINF:-1 tvg-name="亚太第一卫视" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/亚太第一卫视.png" group-title="港澳频道",亚太第一卫视
 https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/环球电视.png" group-title="港澳频道",环球电视
@@ -257,7 +257,7 @@ http://dreator800.top/iptv/tw.php?id=1030
 #EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-id="369191" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/华艺MBC综合.png" group-title="台湾频道",华艺MBC综合
 http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b51c914ea88fc162f99733817397bcd6
 #EXTINF:-1 tvg-name="原住民頻道" tvg-id="368927" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TITV原视.png" group-title="台湾频道",TITV 原视
-http://37.27.111.214:8080/live/2/hls.m3u8
+http://106.53.99.30/iptv.php?id=84
 #EXTINF:-1 tvg-name="客家電視台" tvg-id="368928" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Hakka客视.png" group-title="台湾频道",HakkaTV 客视
 https://litv.zapi.us.kg/?id=4gtv-4gtv043
 #EXTINF:-1 tvg-name="台灣戲劇HD" tvg-id="368789" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/台湾戏剧.png" group-title="台湾频道",台湾戏剧
@@ -276,6 +276,8 @@ http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
 #EXTINF:-1 tvg-name="HBO 強檔鉅獻" tvg-id="369199" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HBO强档巨献.png" group-title="台湾频道",HBO 强档巨献
 http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
+#EXTINF:-1 tvg-name="天映频道" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映频道.png" group-title="台湾频道",天映频道
+http://106.53.99.30/iptv.php?id=111
 #EXTINF:-1 tvg-name="東風衛視" tvg-id="369193" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/东风卫视.png" group-title="台湾频道",东风卫视
 http://dreator800.top/iptv/tw.php?id=1195
 #EXTINF:-1 tvg-name="卡通頻道" tvg-id="369326" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CN卡通.png" group-title="台湾频道",CN卡通
@@ -417,7 +419,7 @@ http://dreator800.top/iptv/tw.php?id=1011
 #EXTINF:-1 tvg-name="緯來育樂台" tvg-id="369289" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来育乐.png" group-title="台湾频道",纬来音乐
 http://dreator800.top/iptv/tw.php?id=1045
 #EXTINF:-1 tvg-name="緯來精采HD" tvg-id="368773" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来精采.png" group-title="台湾频道",纬来精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
+http://106.53.99.30/iptv.php?id=38
 #EXTINF:-1 tvg-name="博斯運動一台" tvg-id="369230" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/博斯运动Ⅰ.png" group-title="台湾频道",博斯运动Ⅰ
 http://dreator800.top/iptv/tw.php?id=1678
 #EXTINF:-1 tvg-name="博斯運動二台" tvg-id="369217" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/博斯运动Ⅱ.png" group-title="台湾频道",博斯运动Ⅱ
@@ -505,7 +507,9 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
 #EXTINF:-1 tvg-name="LSTime电影台" tvg-id="392630" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/龙祥时代电影.png" group-title="台湾频道",龙祥时代电影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=525f1c9e0b438304ca9f31eb061c4710
 #EXTINF:-1 tvg-name="EYE TV戲劇台HD" tvg-id="368796" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/EYETV戏剧.png" group-title="台湾频道",EYETV戏剧
-http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+http://106.53.99.30/iptv.php?id=102
+#EXTINF:-1 tvg-name="EYE TV旅遊台HD" tvg-id="368739" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/EYETV旅游.png" group-title="台湾频道",EYETV旅游
+http://106.53.99.30/iptv.php?id=97
 #EXTINF:-1 tvg-name="八大綜藝台" tvg-id="370146" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/八大娱乐.png" group-title="台湾频道",八大综艺
 https://litv.zapi.us.kg/?id=4gtv-4gtv039
 #EXTINF:-1 tvg-name="八大精彩台" tvg-id="370231" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/八大精彩.png" group-title="台湾频道",八大精彩
@@ -548,6 +552,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-id="370152" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/阿里郎.png" group-title="台湾频道",Arirang 阿里郎
 http://litv.zapi.us.kg/?id=4gtv-4gtv079
+#EXTINF:-1 tvg-name="JET綜合台" tvg-id="369222" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/JET综合.png" group-title="台湾频道",JET综合
+http://106.53.99.30/iptv.php?id=12
 #EXTINF:-1 tvg-name="龍華戲劇HD" tvg-id="368790" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/龙华戏剧.png" group-title="台湾频道",龙华戏剧
 http://dreator800.top/iptv/tw.php?id=1671
 #EXTINF:-1 tvg-name="龍華電影HD" tvg-id="368838" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/龙华电影.png" group-title="台湾频道",龙华电影
