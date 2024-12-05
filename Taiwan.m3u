@@ -551,8 +551,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-id="369292" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/BBC Lifestyle.png" group-title="台湾频道",BBC Lifestyle
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
-#EXTINF:-1 tvg-name="HITS HD" tvg-id="368845" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HITS.png" group-title="台湾频道",HITS
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926174
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="369290" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Cinemax.png" group-title="台湾频道",Cinemax
 http://dreator800.top/iptv/tw.php?id=1030
 #EXTINF:-1 tvg-name="CinemaWorld HD" tvg-id="368849" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CinemaWorld.png" group-title="台湾频道",CinemaWorld
@@ -637,7 +635,21 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-id="171999" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映频道.png" group-title="海外频道",天映频道（Indonesia）
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.m3u8
-#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-id="1298" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映频道.png" group-title="台湾频道",天映频道（Malaysia）
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-id="1298" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/天映频道.png" group-title="海外频道",天映频道（Malaysia）
 http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=19955&tsum=595ff8b4e51dcb87b06c193bdd260231
+#EXTINF:-1 tvg-name="HITS HD" tvg-id="2208" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HITS.png" group-title="海外频道",HITS（Malaysia）
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
+#EXTINF:-1 tvg-name="HITS Movies HD" tvg-id="3575" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HITS Movies.png" group-title="海外频道",HITS Movies（Malaysia）
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="368745" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TravelChannel.png" group-title="海外频道",Travel Channel（Malaysia）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://p11.magicplaces.eu/travelchannelsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a1eb2b3a109788505f61733970454be0cfb7e754-6175995d781d1f7877b4456aeea40547-1732188309-1732177509
+https://p11.magicplaces.eu/travelchannelsd/tracks-v1a1/mono.m3u8|referer=https://rds.live/
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Disney Channel.png" group-title="海外频道",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://p11.magicplaces.eu/disneychannelsd/tracks-v1a1/mono.m3u8|referer=https://rds.live/
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Disney Junior.png" group-title="海外频道",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://p11.magicplaces.eu/disneyjunior/tracks-v1a1/mono.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-name="TVB J1" tvg-id="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBJ1.png" group-title="海外频道",TVB J1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
