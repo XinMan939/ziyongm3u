@@ -1,7 +1,11 @@
 { "urls": [
     {
-        "url": "https://gitee.com/ibox1/box/raw/master/vip/dan.json", 
-        "name": "💗🌟VIP🌟💗" 
+        "url": "https://tv.nxog.top/m/?&rMT", 
+        "name": "💗🌟讴歌🌟💗" 
+    },
+    {
+      "url": "http://www.饭太硬.com/tv/",
+      "name": "💗🌟饭太硬🌟💗"
     },
     {
         "url": "https://3450.kstore.space/DEMO.json", 
@@ -17,18 +21,14 @@
     },
     {
         "url": "http://ok321.top/tv", 
-        "name": "💗🌟屌炸天🌟💗" 
+        "name": "💗🌟屌炸天🌟💗🌟" 
     },
     {
         "url": "http://cdn.qiaoji8.com/tvbox.json", 
-        "name": "💗🌟巧技🌟💗🌟" 
+        "name": "💗🌟巧技🌟💗" 
     },
     {
-        "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", 
-        "name": "💗🌟FongMi🌟💗" 
-    },
-    {
-        "url": "https://7213.kstore.vip/吃猫的鱼", 
+        "url": "https://d.kstore.dev/download/7213/吃猫的鱼", 
         "name": "💗🌟吃猫的鱼🌟💗" 
     },
     {
@@ -36,60 +36,16 @@
         "name": "💗🌟莱妮丝🌟💗" 
     },
     {
-        "url": "http://pandown.pro/tvbox/tvbox.json", 
-        "name": "💗🌟巧儿🌟💗" 
-    },
-    {
-        "url": "http://home.jundie.top:81/top98.json", 
-        "name": "💗🌟俊哥🌟💗" 
-    },
-    {
-        "url": "http://drpy.site/js1", 
-        "name": "💗🌟小雅🌟💗" 
-    },
-    {
-        "url": "https://tv.nxog.top/m/?&HcI", 
-        "name": "💗🌟讴歌🌟💗" 
-    },
-    {
-      "url": "http://www.饭太硬.com/tv/",
-      "name": "💗🌟饭太硬🌟💗"
-    },
-    {
-      "url": "https://神器每日推送.tk/pz.json",
-      "name": "💗🌟神器🌟💗"
-    },
-    {
       "url": "http://肥猫.live",
       "name": "💗🌟肥猫🌟💗"
     },
     {
-      "url": "http://8.210.232.168/xc.json",
-      "name": "💗🌟星辰线路🌟💗"
-    },
-    {
-      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-      "name": "💗🌟分享者线路🌟💗"
-    },
-    {
-      "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "💗🌟道长🌟💗"
-    },
-    {
-      "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
-      "name": "💗🌟东辰🌟💗"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "💗🌟南风🌟💗"
     },
     {
       "url": "https://盒子迷.top/禁止贩卖",
       "name": "💗🌟盒子迷🌟💗"
-    },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "💗🌟云星🌟💗"
-    },
-    {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💗🌟南风🌟💗"
     },
     {
       "url": "http://bp.tvbox.cam/",
