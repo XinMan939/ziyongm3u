@@ -163,7 +163,7 @@ https://pixman.mytvsuper.com.mp/mytvsuper/CDR3
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
 https://pixman.mytvsuper.com.mp/mytvsuper/KID
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="3493" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB星河.png" group-title="港澳频道",TVB 星河
-https://stream1.freetv.fun/tvbxing-he--ch305-1.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="無綫新聞台" tvg-id="368359" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB无线新闻.png" group-title="港澳频道",TVB 无线新闻
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="娛樂新聞台" tvg-id="368323" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB娱乐新闻.png" group-title="港澳频道",TVB 娱乐新闻
@@ -669,14 +669,14 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://p11.magicplaces.eu/travelchannelsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a1eb2b3a109788505f61733970454be0cfb7e754-6175995d781d1f7877b4456aeea40547-1732188309-1732177509
 https://p11.magicplaces.eu/travelchannelsd/tracks-v1a1/mono.m3u8|referer=https://rds.live/
+#EXTINF:-1 tvg-name="ABC (WABC) New York, NY" tvg-id="403805" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ABC.png" group-title="美国频道",ABC (WABC) 
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="ACC Network" tvg-id="403534" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ACC Network.png" group-title="美国频道",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="American Heroes Channel" tvg-id="403724" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/American Heroes Channel.png" group-title="美国频道",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet US - East" tvg-id="403699" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Animal Planet.png" group-title="美国频道",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-name="ABC (WABC) New York, NY" tvg-id="403805" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ABC.png" group-title="美国频道",ABC (WABC) 
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="AMC - Eastern Feed" tvg-id="403838" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/AMC.png" group-title="美国频道",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="BBC America - East" tvg-id="403895" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/BBC America.png" group-title="美国频道",BBC America
@@ -715,14 +715,26 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-name="CNBC USA" tvg-id="403527" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CNBC.png" group-title="美国频道",CNBC USA
 http://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="Cable News Network International (CNNI)" tvg-id="8456" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CNN.png" group-title="美国频道",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-id="403819" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CNN.png" group-title="美国频道",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-name="Cable News Network International (CNNI)" tvg-id="8456" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CNNI.png" group-title="美国频道",CNNI
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-name="Crave1 - East" tvg-id="404935" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Crave.png" group-title="美国频道",Crave1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-name="Crave2 - East" tvg-id="404944" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Crave.png" group-title="美国频道",Crave2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-name="Crave3 - East" tvg-id="405111" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Crave.png" group-title="美国频道",Crave3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-name="Crave4" tvg-id="405071" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Crave.png" group-title="美国频道",Crave4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-name="Comedy Central (US) - Eastern Feed" tvg-id="403666" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Comedy Central.png" group-title="美国频道",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-name="The Cooking Channel" tvg-id="403832" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/The Cooking Channel.png" group-title="美国频道",The Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="CSPAN3" tvg-id="400141" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/CSPAN.png" group-title="美国频道",CSPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-name="Destination America" tvg-id="403739" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Destination America.png" group-title="美国频道",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (US) - Eastern Feed" tvg-id="403564" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Discovery Channel.png" group-title="美国频道",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family Channel" tvg-id="403613" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Discovery Family Channel.png" group-title="美国频道",Discovery Family Channel
@@ -757,6 +769,8 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="FOX (WNYW) New York, NY" tvg-id="403858" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/FOX East.png" group-title="美国频道",FOX East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="Fox Business" tvg-id="403738" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Fox Business.png" group-title="美国频道",Fox Business
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-name="Fox News" tvg-id="403903" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Fox News.png" group-title="美国频道",Fox News
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-name="FOX Soccer Plus" tvg-id="403927" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/FOX Soccer Plus.png" group-title="美国频道",FOX Soccer Plus
@@ -777,10 +791,14 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-name="FYI USA - Eastern" tvg-id="403581" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/FYI USA.png" group-title="美国频道",FYI USA - Eastern
 http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-name="Game Show Network - East" tvg-id="403816" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Game Show Network.png" group-title="美国频道",Game Show Network
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark - Eastern Feed" tvg-id="403490" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Hallmark Channel East.png" group-title="美国频道",Hallmark Channel East
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Drama HDTV (HALDRHD)" tvg-id="8819" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Hallmark Drama.png" group-title="美国频道",Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Mystery Eastern - HD" tvg-id="403472" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Hallmark Mystery.png" group-title="美国频道",Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-name="HBO - Eastern Feed" tvg-id="403926" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HBO East.png" group-title="美国频道",HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 - Eastern Feed" tvg-id="403522" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HBO2 East.png" group-title="美国频道",HBO2 East
@@ -797,16 +815,30 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 http://fl2.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery USA - Eastern" tvg-id="403880" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Investigation Discovery.png" group-title="美国频道",Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-name="INSP" tvg-id="403618" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/INSP.png" group-title="美国频道",INSP
+http://fl2.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 tvg-name="ION - Eastern Feed" tvg-id="403718" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ION.png" group-title="美国频道",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-name="ION Plus TV" tvg-id="399929" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ION Plus.png" group-title="美国频道",ION Plus
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Network US - Eastern Feed" tvg-id="403512" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Lifetime.png" group-title="美国频道",Lifetime East
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Movies - East" tvg-id="403730" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Lifetime Movies Network.png" group-title="美国频道",Lifetime Movies Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="LOGO - East" tvg-id="403878" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Logo East.png" group-title="美国频道",Logo East
 http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="404989" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/LoveNarure.png" group-title="美国频道",Love Nature
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-name="Magnolia - East" tvg-id="403715" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Magnolia.png" group-title="美国频道",Magnolia
+http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-name="MLB Network" tvg-id="403836" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MLB Network.png" group-title="美国频道",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="MoreMax Eastern" tvg-id="403766" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MoreMax.png" group-title="美国频道",MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="Motor Trend HD" tvg-id="403831" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Motor Trend.png" group-title="美国频道",Motor Trend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-name="MSG (Madison Square Gardens)" tvg-id="403916" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Madison Square Gardens.png" group-title="美国频道",Madison Square Gardens
+http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 tvg-name="MSNBC USA" tvg-id="403470" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MSNBC USA.png" group-title="美国频道",MSNBC USA
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-name="MTV USA - Eastern Feed" tvg-id="403921" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/MTV East.png" group-title="美国频道",MTV East
@@ -831,6 +863,8 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-id="403667" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NFL Network.png" group-title="美国频道",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="NFL RedZone" tvg-id="403787" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NFL RedZone.png" group-title="美国频道",NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network USA" tvg-id="403443" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NHL Network.png" group-title="美国频道",NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon USA - East Feed" tvg-id="403620" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/尼克国际儿童频道.png" group-title="美国频道",Nickelodeon East
@@ -845,18 +879,30 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel US" tvg-id="403523" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Outdoor Channel.png" group-title="美国频道",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="OuterMax - Eastern" tvg-id="8420" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/OuterMax.png" group-title="美国频道",OuterMax
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-name="Ovation" tvg-id="403633" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Ovation.png" group-title="美国频道",Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-name="Oxygen - Eastern Feed" tvg-id="403769" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Oxygen East.png" group-title="美国频道",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network USA - Eastern Feed" tvg-id="403824" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Paramount Network East.png" group-title="美国频道",Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="PIXL" tvg-id="403719" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/PIXL.png" group-title="美国频道",PIXL
+https://fl3.moveonjoy.com/Pixl/index.m3u8
 #EXTINF:-1 tvg-name="POP - East" tvg-id="403839" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/PopTV East.png" group-title="美国频道",PopTV East
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-name="ReelzChannel" tvg-id="403719" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ReelzChannel.png" group-title="美国频道",ReelzChannel
 http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-name="Revolt TV" tvg-id="403719" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Revolt.png" group-title="美国频道",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-name="Science" tvg-id="403555" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Science.png" group-title="美国频道",Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 tvg-name="SEC Network" tvg-id="403901" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/SEC Network.png" group-title="美国频道",SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-id="403537" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Showtime East.png" group-title="美国频道",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-name="Paramount+ with Showtime West" tvg-id="403876" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Showtime West.png" group-title="美国频道",Showtime West
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 tvg-name="Showtime 2 - Eastern" tvg-id="403651" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Showtime 2 East.png" group-title="美国频道",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-name="Showtime Extreme - Eastern" tvg-id="403681" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Showtime Extreme East.png" group-title="美国频道",Showtime Extreme East
@@ -865,14 +911,20 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-name="Showtime Women HD - Eastern" tvg-id="403851" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Showtime Women East.png" group-title="美国频道",Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel USA HD" tvg-id="403814" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Smithsonian Channel.png" group-title="美国频道",Smithsonian Channel
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Starz - Eastern" tvg-id="403646" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz East.png" group-title="美国频道",Starz East
 http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy HD - Eastern" tvg-id="403873" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Comedy.png" group-title="美国频道",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-name="Starz Edge - Eastern" tvg-id="403899" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Edge East.png" group-title="美国频道",Starz Edge East
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-name="Starz Encore - Eastern" tvg-id="403652" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Encore East.png" group-title="美国频道",Starz Encore East
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-name="Starz Encore Action - Eastern" tvg-id="403480" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Encore Action.png" group-title="美国频道",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-name="Starz Encore Classic - Eastern" tvg-id="403786" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Encore Classic.png" group-title="美国频道",Starz Encore Classic
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-name="Starz Encore Westerns - Eastern" tvg-id="403951" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Starz Encore Westerns.png" group-title="美国频道",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-name="SundanceTV USA - East" tvg-id="403603" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/SundanceTV.png" group-title="美国频道",SundanceTV
@@ -887,15 +939,39 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-name="TNT - Eastern Feed" tvg-id="403615" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TNT East.png" group-title="美国频道",TNT East
 http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-name="Travel US - East" tvg-id="403702" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TravelChannel.png" group-title="美国频道",Travel Channel
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-name="truTV USA - Eastern" tvg-id="403727" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/truTV East.png" group-title="美国频道",truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-name="TSN1" tvg-id="405049" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TSN1.png" group-title="美国频道",TSN1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN2" tvg-id="404833" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TSN2.png" group-title="美国频道",TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN3" tvg-id="405060" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TSN3.png" group-title="美国频道",TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN4" tvg-id="405134" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TSN4.png" group-title="美国频道",TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN5" tvg-id="405079" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TSN5.png" group-title="美国频道",TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-name="Turner Classic Movies USA" tvg-id="403902" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Turner Classic Movies.png" group-title="美国频道",Turner Classic Movies
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-name="TV Land - Eastern" tvg-id="403879" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV Land.png" group-title="美国频道",TV Land
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-name="TV One" tvg-id="403529" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV One.png" group-title="美国频道",TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-name="USA Network - East Feed" tvg-id="403626" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/USA Network.png" group-title="美国频道",USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-name="VH1 - Eastern Feed" tvg-id="403653" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/VH1 East.png" group-title="美国频道",VH1 East
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-name="VICE" tvg-id="403761" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Vice.png" group-title="美国频道",Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 tvg-name="The Weather Channel" tvg-id="403568" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/The Weather Channel.png" group-title="美国频道",The Weather Channel
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-id="403568" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/The Weather Channel.png" group-title="美国频道",Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="WE (Women's Entertainment) - Eastern" tvg-id="406040" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Womens Entertainment.png" group-title="美国频道",Women's Entertainment
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-name="World Fishing Network (US) (WFN)" tvg-id="8928" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/World Fishing Network.png" group-title="美国频道",World Fishing Network
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-id="9013" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/WWE.png" group-title="美国频道",WWE Network
+http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 tvg-name="YES Network" tvg-id="403699" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/YES Network.png" group-title="美国频道",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
