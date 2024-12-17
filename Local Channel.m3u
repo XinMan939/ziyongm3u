@@ -279,7 +279,7 @@ http://www.lizhinas.top:1009/udp/239.252.220.238:5140
 http://www.lizhinas.top:1009/udp/239.252.219.173:5140
 
 #EXTINF:-1 tvg-name="湖北综合" tvg-id="301" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北综合.png" group-title="湖北频道", 湖北综合
-http://58.51.111.46:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.36.148.115:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北影视" tvg-id="304" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北影视.png" group-title="湖北频道", 湖北影视
 http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北教育" tvg-id="305" tvg-id="307" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北教育.png" group-title="湖北频道", 湖北教育
@@ -287,11 +287,11 @@ http://220.249.114.102:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-id="306" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北生活.png" group-title="湖北频道", 湖北生活
 http://220.249.114.102:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-id="303" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北公共新闻.png" group-title="湖北频道", 湖北公共新闻
-http://58.48.37.158:1111/tsfile/live/1001_1.m3u8
+http://119.36.148.115:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北经视" tvg-id="300" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北经视.png" group-title="湖北频道", 湖北经视
-http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北垄上" tvg-id="302" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/湖北垄上.png" group-title="湖北频道", 湖北垄上
-http://58.53.152.234:9901/tsfile/live/faacts/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.36.148.115:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-id="307" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/武汉新闻综合.png" group-title="湖北频道", 武汉新闻综合
 http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="武汉电视剧" tvg-id="308" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/hubei/武汉电视剧.png" group-title="湖北频道", 武汉电视剧
@@ -368,19 +368,19 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 http://159.75.166.157/php/ah.php?id=ahgj
 
 #EXTINF:-1 tvg-name="河南都市" tvg-id="321" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南都市.png" group-title="河南频道",河南都市
-http://222.142.70.252:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南民生" tvg-id="322" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南民生.png" group-title="河南频道",河南民生
-http://222.142.70.252:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南法治" tvg-id="323" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南法治.png" group-title="河南频道",河南法治
-http://222.142.70.252:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南电视剧" tvg-id="324" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南电视剧.png" group-title="河南频道",河南电视剧
-http://222.142.70.252:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南新闻" tvg-id="325" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南新闻.png" group-title="河南频道",河南新闻
-http://222.142.70.252:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南公共" tvg-id="326" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南公共.png" group-title="河南频道",河南公共
-http://115.60.241.249:2000/udp/225.1.4.58:1087
+http://115.48.63.1:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南乡村" tvg-id="327" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南乡村.png" group-title="河南频道",河南乡村
-http://222.142.70.252:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.48.63.1:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="移动戏曲" tvg-id="330" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/henan/河南都市.png" group-title="河南频道",移动戏曲
 http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 
