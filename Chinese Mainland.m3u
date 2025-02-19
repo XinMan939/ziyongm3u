@@ -5,10 +5,6 @@ http://psp94525.iask.in:6688/udp/239.93.0.58:5140
 http://psp94525.iask.in:6688/udp/239.93.1.23:6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV3.png" group-title="央视频道" , CCTV3
 http://psp94525.iask.in:6688/udp/239.93.0.109:5140
-
-CCTV17,http://psp94525.iask.in:6688/udp/239.93.0.92:5140
-CCTV4K,http://psp94525.iask.in:6688/udp/239.93.42.42:5140
-CCTV5＋,http://psp94525.iask.in:6688/udp/239.93.1.173:5140
 #EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV4.png" group-title="央视频道", CCTV4
 http://psp94525.iask.in:6688/udp/239.93.1.105:5140
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV5.png" group-title="央视频道", CCTV5
