@@ -171,21 +171,21 @@ http://119.125.134.179:9901/tsfile/live/1014_1.m3u8
 
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="208" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/优漫卡通.png" group-title="江苏频道", 优漫卡通
-http://180.114.26.100:8800/rtp/239.49.8.119:8000
+http://106.53.99.30/dl/jstv.php?id=jskt
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="214" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏城市.png" group-title="江苏频道", 江苏城市
-http://tvbox6.com/tv/jstv.php?id=jscs
+http://106.53.99.30/dl/jstv.php?id=jscs
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="214" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏国际.png" group-title="江苏频道", 江苏国际
-http://tvbox6.com/tv/jstv.php?id=jsgj
+http://106.53.99.30/dl/jstv.php?id=jsgj
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="216" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏教育.png" group-title="江苏频道", 江苏教育
-http://tvbox6.com/tv/jstv.php?id=jsjy
+http://106.53.99.30/dl/jstv.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="217" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏影视.png" group-title="江苏频道", 江苏影视
-http://tvbox6.com/tv/jstv.php?id=jsys
+http://106.53.99.30/dl/jstv.php?id=jsys
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="218" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏综艺.png" group-title="江苏频道", 江苏综艺
-http://tvbox6.com/tv/jstv.php?id=jszy
+http://106.53.99.30/dl/jstv.php?id=jszy
 #EXTINF:-1 tvg-name="江苏新闻" tvg-id="219" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏新闻.png" group-title="江苏频道", 江苏新闻
-http://tvbox6.com/tv/jstv.php?id=jsxw
+http://106.53.99.30/dl/jstv.php?id=jsxw
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/江苏体育休闲.png" group-title="江苏频道", 江苏体育休闲
-http://tvbox6.com/tv/jstv.php?id=jsty
+http://106.53.99.30/dl/jstv.php?id=jsty
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/苏州新闻综合.png" group-title="江苏频道", 苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" tvg-id="220" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/苏州社会经济.png" group-title="江苏频道", 苏州社会经济
