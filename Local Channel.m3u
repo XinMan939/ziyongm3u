@@ -113,21 +113,21 @@ http://123.113.185.113:9000/rtp/239.3.1.100:8001
 http://123.113.185.113:9000/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="158" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东新闻.png" group-title="广东频道🌏", 广东新闻
-http://113.118.13.45:808/hls/5/index.m3u8
+http://113.64.146.2:2024/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="319" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东民生.png" group-title="广东频道🌏", 广东民生
-http://113.118.13.45:808/hls/18/index.m3u8
+http://113.64.146.2:2024/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-id="162" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东影视.png" group-title="广东频道🌏", 广东影视
-http://119.125.134.179:9901/tsfile/live/1009_1.m3u8
+http://113.64.146.2:2024/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-id="156" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东体育.png" group-title="广东频道🌏", 广东体育
-http://119.125.134.179:9901/tsfile/live/1007_1.m3u8
+http://113.64.146.2:2024/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="广东综艺" tvg-id="161" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东综艺.png" group-title="广东频道🌏", 广东综艺
 http://113.118.13.45:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="164" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东少儿.png" group-title="广东频道🌏", 广东少儿
 http://119.125.134.179:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="广东经济科教" tvg-id="160" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东经济科教.png" group-title="广东频道🌏", 广东经济科教
-http://113.118.13.45:808/hls/4/index.m3u8
+http://113.64.146.2:2024/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="155" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广东珠江.png" group-title="广东频道🌏", 广东珠江
-http://119.125.134.179:9901/tsfile/live/1003_1.m3u8
+http://113.64.146.2:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广州综合.png" group-title="广东频道🌏", 广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/广州新闻.png" group-title="广东频道🌏", 广州新闻
@@ -141,11 +141,11 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695
 #EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/南国都市.png" group-title="广东频道🌏", 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="潮州民生" tvg-id="潮州民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/潮州民生.png" group-title="广东频道🌏", 潮州民生
-http://183.53.109.165:9090/udp/239.253.43.75:5146
+http://113.64.146.2:2024/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-id="347" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头新闻综合.png" group-title="广东频道🌏",汕头综合
-http://183.53.109.165:9090/udp/239.77.1.130:5146
+http://113.64.146.2:2024/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-id="348" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头经济生活.png" group-title="广东频道🌏", 汕头经济生活
-http://183.53.109.165:9090/udp/239.77.1.131:5146
+http://113.64.146.2:2024/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="汕头文旅体育" tvg-id="349" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/汕头文旅体育.png" group-title="广东频道🌏", 汕头文旅体育
 http://183.53.109.165:9090/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-name="深圳都市" tvg-id="532" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳都市.png" group-title="广东频道🌏", 深圳都市
@@ -163,12 +163,11 @@ http://113.118.13.45:808/hls/158/index.m3u8
 #EXTINF:-1 tvg-name="深圳宝安" tvg-id="深圳宝安" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/深圳宝安.png" group-title="广东频道🌏", 深圳宝安
 http://183.53.109.165:9090/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="159" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/嘉佳卡通.png" group-title="广东频道🌏", 嘉佳卡通
-http://113.118.13.45:808/hls/8/index.m3u8
+http://113.64.146.2:2024/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-id="165" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/岭南戏曲.png" group-title="广东频道🌏", 岭南戏曲
-http://113.118.13.45:808/hls/16/index.m3u8
+http://113.64.146.2:2024/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="现代教育" tvg-id="506" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/guangdong/现代教育.png" group-title="广东频道🌏", 现代教育
-http://119.125.134.179:9901/tsfile/live/1014_1.m3u8
-
+http://113.64.146.2:2024/hls/49/index.m3u8
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="208" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jiangsu/优漫卡通.png" group-title="江苏频道🌏", 优漫卡通
 http://106.53.99.30/dl/jstv.php?id=jskt
