@@ -146,9 +146,9 @@ http://113.64.146.2:2024/hls/75/index.m3u8
 #EXTINF:-1  tvg-id="109" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/山西卫视.png" group-title="卫视频道🛸",山西卫视
 http://113.64.146.2:2024/hls/74/index.m3u8
 #EXTINF:-1  tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
+http://47.122.125.40:6666/hls/xjtv.m3u8
 #EXTINF:-1  tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/西藏卫视.png" group-title="卫视频道🛸",西藏卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+http://47.122.125.40:6666/hls/xztv.m3u8
 #EXTINF:-1  tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
 http://113.64.146.2:2024/hls/88/index.m3u8
 #EXTINF:-1 tvg-id="274" tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
@@ -156,24 +156,24 @@ http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/农林卫视.png" group-title="卫视频道🛸",农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8
 #EXTINF:-1  tvg-id="112" tvg-name="延边卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/延边卫视.png" group-title="卫视频道🛸",延边卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
+http://58.245.255.34:9998/tsfile/live/1011_1.m3u8
 #EXTINF:-1  tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/厦门卫视.png" group-title="卫视频道🛸",厦门卫视
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
+http://47.122.125.40:6666/hls/xmtv.m3u8
 #EXTINF:-1  tvg-id="554" tvg-name="安多卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/安多卫视.png" group-title="卫视频道🛸",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1  tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/康巴卫视.png" group-title="卫视频道🛸",康巴卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
+http://171.213.200.42:8888/udp/239.93.0.41:5140
 #EXTINF:-1  tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/兵团卫视.png" group-title="卫视频道🛸",兵团卫视
 http://113.64.146.2:2024/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
 http://113.64.146.2:2024/hls/63/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/weishi/山东教育卫视.png" group-title="卫视频道🛸",山东教育卫视
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND
+http://171.213.200.42:8888/udp/239.93.1.196:5140
 
 
 
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/求索记录.png" group-title="数字付费🎞️",求索纪录
-http://111.226.66.82:9999/rtp/239.254.201.176:7221
+http://171.213.206.110:8888/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/求索动物.png" group-title="数字付费🎞️",求索动物
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/求索科学.png" group-title="数字付费🎞️",求索科学
