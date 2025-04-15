@@ -309,7 +309,7 @@ http://205.185.123.236:50089/4gtv-live096/index.m3u8
 #EXTINF:-1 tvg-name="車迷TV" tvg-id="370210" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/车迷TV.png" group-title="台湾频道🏞️",车迷TV
 http://205.185.123.236:50089/4gtv-live201/index.m3u8
 #EXTINF:-1 tvg-name="fun探索娛樂台" tvg-id="370217" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Fun探索娱乐.png" group-title="台湾频道🏞️",Fun探索娱乐
-http://205.185.123.236:50089/4gtv-live029/index.m3u8
+http://205.185.123.236:50089/4gtv-live011/index.m3u8
 #EXTINF:-1 tvg-name="緯來綜合台" tvg-id="368944" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来综合.png" group-title="台湾频道🏞️",纬来综合
 https://pixman.mytvsuper.com.mp/Smart.php?id=videolandzonghe
 #EXTINF:-1 tvg-name="緯來戲劇台" tvg-id="369224" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
@@ -344,7 +344,6 @@ http://205.185.123.236:50089/4gtv-live021/index.m3u8
 http://205.185.123.236:50089/4gtv-live022/index.m3u8
 #EXTINF:-1 tvg-name="精選動漫台" tvg-id="370262" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/精选动漫台.png" group-title="台湾频道🏞️",精选动漫台
 http://205.185.123.236:50089/4gtv-live024/index.m3u8
-
 #EXTINF:-1 tvg-name="Discovery Asia HD" tvg-id="369275" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/DiscoveryAsia.png" group-title="台湾频道🏞️",Discovery Asia
 https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="Discovery" tvg-id="368930" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Discovery.png" group-title="台湾频道🏞️",Discovery
