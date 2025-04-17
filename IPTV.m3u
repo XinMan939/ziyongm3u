@@ -601,7 +601,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="TVBS精采台HD" tvg-id="368771" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBS精采.png" group-title="台湾频道🏞️",TVBS 精彩
 http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台" tvg-id="369244" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBS新闻.png" group-title="台湾频道🏞️",TVBS 新闻
-https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS台劇台" tvg-id="370258" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBS台剧.png" group-title="台湾频道🏞️",TVBS台剧
 http://205.185.123.236:50089/4gtv-live088/index.m3u8
 #EXTINF:-1 tvg-name="TVBS綜藝台" tvg-id="370257" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBS综艺.png" group-title="台湾频道🏞️",TVBS综艺
