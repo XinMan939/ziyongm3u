@@ -1,40 +1,40 @@
 #EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz"catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV1.png" group-title="央视频道🇨🇳" , CCTV1
-http://221.217.48.223:5050/gaoma/cctv1.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.153:9136
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV2.png" group-title="央视频道🇨🇳", CCTV2
-http://221.217.48.223:5050/gaoma/cctv2.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.154:9144
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV3.png" group-title="央视频道🇨🇳" , CCTV3
-http://113.64.146.2:2024/hls/20/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.208:9576
 #EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV4.png" group-title="央视频道🇨🇳", CCTV4
-http://221.217.48.223:5050/gaoma/cctv4.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.156:9160
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV5.png" group-title="央视频道🇨🇳", CCTV5
-http://113.64.146.2:2024/hls/22/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.209:9584
 #EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV5plus.png" group-title="央视频道🇨🇳", CCTV5+
-http://221.217.48.223:5050/gaoma/cctv5p.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.168:9256
 #EXTINF:-1  tvg-id="7" tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV6.png" group-title="央视频道🇨🇳", CCTV6
-http://113.64.146.2:2024/hls/23/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.210:9592
 #EXTINF:-1  tvg-id="8" tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV7.png" group-title="央视频道🇨🇳", CCTV7
-http://221.217.48.223:5050/gaoma/cctv7.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.159:9184
 #EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV8.png" group-title="央视频道🇨🇳", CCTV8
-http://113.64.146.2:2024/hls/25/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.211:9600
 #EXTINF:-1  tvg-id="10" tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV9.png" group-title="央视频道🇨🇳", CCTV9
-http://113.64.146.2:2024/hls/26/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.161:9200
 #EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV10.png" group-title="央视频道🇨🇳", CCTV10
-http://113.64.146.2:2024/hls/28/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.162:9208
 #EXTINF:-1  tvg-id="12" tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV11.png" group-title="央视频道🇨🇳", CCTV11
-http://113.64.146.2:2024/hls/29/index.m3u8
+http://211.141.56.169:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-id="13" tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV12.png" group-title="央视频道🇨🇳", CCTV12
-http://45.45.218.253:10087/gaoma/cctv12.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.164:9224
 #EXTINF:-1  tvg-id="14" tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV13.png" group-title="央视频道🇨🇳", CCTV13
-http://221.217.48.223:5050/gaoma/cctv13.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.165:9232
 #EXTINF:-1  tvg-id="15" tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV14.png" group-title="央视频道🇨🇳", CCTV14
-http://221.217.48.223:5050/gaoma/cctv14.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.166:9240
 #EXTINF:-1  tvg-id="16" tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV15.png" group-title="央视频道🇨🇳", CCTV15
-http://221.217.48.223:5050/gaoma/cctv15.m3u8
+http://211.141.56.169:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-id="17" tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV16.png" group-title="央视频道🇨🇳", CCTV16
-http://113.64.146.2:2024/hls/35/index.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.169:9264
 #EXTINF:-1  tvg-id="18" tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV17.png" group-title="央视频道🇨🇳", CCTV17
-http://221.217.48.223:5050/gaoma/cctv17.m3u8
+http://171.116.121.157:8003/rtp/226.0.2.170:9272
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV4K.png" group-title="央视频道🇨🇳",CCTV4K
 http://124.71.60.240:6008/gaoma/cctv4k_10m.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV8K.png" group-title="央视频道🇨🇳",CCTV8K
