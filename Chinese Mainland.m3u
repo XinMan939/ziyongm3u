@@ -6,7 +6,7 @@ http://211.141.56.169:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV3.png" group-title="央视频道🇨🇳" , CCTV3
 http://211.141.56.169:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV4.png" group-title="央视频道🇨🇳", CCTV4
-http://211.141.56.169:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.64.94.248:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV5.png" group-title="央视频道🇨🇳", CCTV5
 http://211.141.56.169:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/CCTV/CCTV5plus.png" group-title="央视频道🇨🇳", CCTV5+
