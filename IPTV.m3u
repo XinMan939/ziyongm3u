@@ -1892,7 +1892,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-name="NET TV" tvg-id="171951" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NET TV.png" group-title="印度尼西亚频道🇮🇩",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
-#EXTINF:-1 tvg-name="SCTV" tvg-id="171854" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/SCTV.png" group-title="印度尼西亚频道🇮🇩",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-id="171854" tvg-logo="https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/SCTV.png" group-title="印度尼西亚频道🇮🇩",SCTV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
 #EXTINF:-1 tvg-name="TRANS TV" tvg-id="11695" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TRANS%20TV.png" group-title="印度尼西亚频道🇮🇩",TRANS TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
@@ -2039,17 +2039,17 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=19955&tsum=595ff8b4e51dcb87b06c193bdd260231
 #EXTINF:-1 tvg-name="HITS Movies HD" tvg-id="3575" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/HITS Movies.png" group-title="🇲🇾Malaysia🇲🇾",HITS Movies
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
-#EXTINF:-1 tvg-name="W-Sport" tvg-id="48630" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/W-Sport.png" group-title="🇲🇾Malaysia🇲🇾",W-Sport
+#EXTINF:-1 tvg-name="W-Sport" tvg-id="48630" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/W-Sport.png" group-title="🇲🇾Malaysia🇲🇾",W-Sport
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="368745" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TravelChannel.png" group-title="🇲🇾Malaysia🇲🇾",Travel Channel
-#EXTINF:-1 tvg-name="TV1 HD" tvg-id="3683" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV1.png" group-title="🇲🇾Malaysia🇲🇾",TV1
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="368745" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TravelChannel.png" group-title="🇲🇾Malaysia🇲🇾",Travel Channel
+#EXTINF:-1 tvg-name="TV1 HD" tvg-id="3683" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV1.png" group-title="🇲🇾Malaysia🇲🇾",TV1
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1_backup&sp=chaojidianshi
-#EXTINF:-1 tvg-name="TV2 HD" tvg-id="3711" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV2.png" group-title="🇲🇾Malaysia🇲🇾",TV2
-#EXTINF:-1 tvg-name="TV3" tvg-id="1072" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV3.png" group-title="🇲🇾Malaysia🇲🇾",TV3
-#EXTINF:-1 tvg-name="NTV7" tvg-id="1029" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NTV7.png" group-title="🇲🇾Malaysia🇲🇾",NTV7
-#EXTINF:-1 tvg-name="TV9" tvg-id="902" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV9.png" group-title="🇲🇾Malaysia🇲🇾",TV9
-#EXTINF:-1 tvg-name="TV6" tvg-id="370131" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV6.png" group-title="🇲🇾Malaysia🇲🇾",TV6
-#EXTINF:-1 tvg-name="Astro Ria" tvg-id="2384" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Astro Ria.png" group-title="🇲🇾Malaysia🇲🇾",Astro Ria
+#EXTINF:-1 tvg-name="TV2 HD" tvg-id="3711" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV2.png" group-title="🇲🇾Malaysia🇲🇾",TV2
+#EXTINF:-1 tvg-name="TV3" tvg-id="1072" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV3.png" group-title="🇲🇾Malaysia🇲🇾",TV3
+#EXTINF:-1 tvg-name="NTV7" tvg-id="1029" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NTV7.png" group-title="🇲🇾Malaysia🇲🇾",NTV7
+#EXTINF:-1 tvg-name="TV9" tvg-id="902" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV9.png" group-title="🇲🇾Malaysia🇲🇾",TV9
+#EXTINF:-1 tvg-name="TV6" tvg-id="370131" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TV6.png" group-title="🇲🇾Malaysia🇲🇾",TV6
+#EXTINF:-1 tvg-name="Astro Ria" tvg-id="2384" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Astro Ria.png" group-title="🇲🇾Malaysia🇲🇾",Astro Ria
 #EXTINF:-1 tvg-id="" tvg-name="MY: Sun Music" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",MY: Sun Music
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2555.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - Zee Cinema HD" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",MY - Zee Cinema HD
