@@ -388,7 +388,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-id="322473" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/澳门莲花.png" group-title="港澳频道🇭🇰",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="PopC" tvg-id="368322" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/popc.png" group-title="港澳频道🇭🇰",Pop C
-http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel V HD" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Channel[V].png" group-title="港澳频道🇭🇰",Channel[V]
 https://stream1.freetv.fun/channel-v-1.ctv
 #EXTINF:-1 tvg-name="NBA TV" tvg-id="410407" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NBA.png" group-title="港澳频道🇭🇰",NBA TV
@@ -396,13 +396,13 @@ http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 tvg-name="曼聯電視頻道" tvg-id="410407" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/曼联电视.png" group-title="港澳频道🇭🇰",曼联电视
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亞電影台" tvg-id="368348" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/美亚电影.png" group-title="港澳频道🇭🇰",美亚电影台
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-id="368337" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NHK新闻资讯.png" group-title="港澳频道🇭🇰",NHK 新闻资讯
 http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-id="368334" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/有线18台.png" group-title="港澳频道🇭🇰",18台
 http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-id="369171" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ROCKAction.png" group-title="港澳频道🇭🇰",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="370192" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/ROCKEntertainment.png" group-title="港澳频道🇭🇰",ROCK Entertainment
 http://205.185.123.236:50089/4gtv-live080/index.m3u8
 #EXTINF:-1 tvg-name="28AI智慧賽馬" tvg-id="394087" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/28AI 智慧赛马.png" group-title="港澳频道🇭🇰",28AI 智慧赛马
@@ -433,7 +433,7 @@ https://pixman.mytvsuper.com.mp/mytvsuper/SMS
 #EXTINF:-1 tvg-name="tvN" tvg-id="368326" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVN.png" group-title="港澳频道🇭🇰",tvN
 http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="368333" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Animax.png" group-title="港澳频道🇭🇰",Animax
-http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-id="368350" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/KIX.png" group-title="港澳频道🇭🇰",KIX
 http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-id="368339" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/Thrill.png" group-title="港澳频道🇭🇰",Thrill
@@ -465,21 +465,21 @@ https://gdfire2.67890123.cn:8088/live/hoy78.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="368342" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/France24.png" group-title="港澳频道🇭🇰",France 24
 http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368336" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB翡翠.png" group-title="港澳频道🇭🇰",TVB 翡翠
-http://php.jdshipin.com/smt.php?id=Tvbjade
+http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-id="368358" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB翡翠.png" group-title="港澳频道🇭🇰",TVB 黄金翡翠
 http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB明珠.png" group-title="港澳频道🇭🇰",TVB 明珠
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="3493" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB星河.png" group-title="港澳频道🇭🇰",TVB 星河
 http://php.jdshipin.com/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="無綫新聞台" tvg-id="368359" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB无线新闻.png" group-title="港澳频道🇭🇰",TVB 无线新闻
-http://php.jdshipin.com/smt.php?id=inews_twn
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="娛樂新聞台" tvg-id="368323" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB娱乐新闻.png" group-title="港澳频道🇭🇰",TVB 娱乐新闻
-http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-id="368325" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVB千禧经典.png" group-title="港澳频道🇭🇰",千禧经典
-http://php.jdshipin.com/smt.php?id=Tvbclassic
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/TVBPlus.png" group-title="港澳频道🇭🇰",TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="SUPER FREE" tvg-id="368376" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/戏曲台.png" group-title="港澳频道🇭🇰",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
