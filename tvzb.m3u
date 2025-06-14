@@ -278,7 +278,7 @@ http://39.137.75.229/000000001000/1000000006000270002/index.m3u8?channel-id=yste
 #EXTINF:-1  tvg-name="睛彩青少" tvg-id="533" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩青少.png" group-title="数字付费🎞️",睛彩青少
 http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.40:5540$kbtv
 #EXTINF:-1  tvg-name="睛彩广场舞" tvg-id="392" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩广场舞.png" group-title="数字付费🎞️",晴彩广场舞
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="睛彩中原" tvg-id="329" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/睛彩中原.png" group-title="数字付费🎞️",睛彩中原
 http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=4b189e4cdc580d06592bde7267e8d7f8&wsTime=1746025257
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/iHOT爱院线.png" group-title="数字付费🎞️", iHOT爱院线
@@ -376,69 +376,69 @@ http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CM-HD/index.m3u8
 
 
 #EXTINF:-1  tvg-name="至臻视界" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/至臻视界.png" group-title="咪咕赛事🌟",至臻视界
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕篮球" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NBA.png" group-title="咪咕赛事🌟",咪咕NBA
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕篮球" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NBA.png" group-title="咪咕赛事🌟",咪咕NBA
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕篮球" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NBA.png" group-title="咪咕赛事🌟",咪咕NBA
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕篮球" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/NBA.png" group-title="咪咕赛事🌟",咪咕NBA
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕赛事" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕赛事
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕音乐" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕歌手
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕音乐" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕歌手
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 #EXTINF:-1  tvg-name="咪咕音乐" tvg-id="" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/shuzifufei/综合体育.png" group-title="咪咕赛事🌟",咪咕歌手
-http://jilin-02.tosunsoft.com:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 
 
 
