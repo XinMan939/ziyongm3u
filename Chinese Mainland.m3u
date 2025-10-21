@@ -870,13 +870,13 @@ http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002161/index.m3u8
 
 
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-id="294" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/黑龙江新闻.png" group-title="黑龙江频道🌏", 黑龙江新闻法治
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+http://shuangyashan.coccc.online:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-id="295" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/黑龙江都市.png" group-title="黑龙江频道🌏", 黑龙江都市
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-id="296" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/黑龙江文体.png" group-title="黑龙江频道🌏", 黑龙江文体
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+http://shuangyashan.coccc.online:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="297" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/黑龙江影视.png" group-title="黑龙江频道🌏", 黑龙江影视
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-id="293" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/heilongjiang/黑龙江农业科教.png" group-title="黑龙江频道🌏", 黑龙江农业科教
 http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
@@ -964,13 +964,12 @@ http://42.57.170.12:9004/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-name="吉林公共新闻" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林公共新闻.png" group-title="吉林频道🌏",吉林公共新闻
 http://61.138.167.36:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="吉林都市" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林都市.png" group-title="吉林频道🌏",吉林都市
-http://61.138.167.36:9901/tsfile/live/1002_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林影视" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林影视.png" group-title="吉林频道🌏",吉林影视
-http://61.138.167.36:9901/tsfile/live/1006_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林生活" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林生活.png" group-title="吉林频道🌏",吉林生活
-http://61.138.167.36:9901/tsfile/live/1007_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林乡村" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林乡村.png" group-title="吉林频道🌏",吉林乡村
-http://61.138.167.36:9901/tsfile/live/1008_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林综艺文化" tvg-id="528" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/jilin/吉林综艺文化.png" group-title="吉林频道🌏",吉林综艺文化
-http://61.138.167.36:9901/tsfile/live/1003_1.m3u8
-
+http://tpc.x3322.net:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
